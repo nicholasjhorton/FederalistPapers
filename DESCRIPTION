@@ -1,0 +1,24 @@
+Package: FederalistPapers
+Title: Text of the Federalist Papers
+Version: 0.0.1
+Authors@R: 
+    person(given = "Nicholas",
+           family = "Horton",
+           role = c("aut", "cre"),
+           email = "nhorton@amherst.edu",
+           comment = c(ORCID = "0000-0003-3332-4311"))
+Description: This is a way to access text from the Federalist Papers.
+  It utilizes the text from Project Gutenberg
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+URL: https://github.com/nicholasjhorton/FederalistPapers
+BugReports: https://github.com/nicholasjhorton/FederalistPapers/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
