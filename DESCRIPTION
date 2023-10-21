@@ -1,6 +1,6 @@
 Package: FederalistPapers
 Title: Text of the Federalist Papers
-Version: 0.0.1
+Version: 0.0.3
 Authors@R: 
     person(given = "Nicholas",
            family = "Horton",

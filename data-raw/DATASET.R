@@ -1,8 +1,9 @@
 library(tidyverse)
 Papers <- tibble(text = readLines("pg18.txt"))
+title_author <- readr::read_csv("title_author.csv")
 FederalistPapers <- Papers |>
   mutate(
-    linenumber = row_number(),
+    line_number = row_number(),
     paper = cumsum(
       str_detect(
         text, 
@@ -12,7 +13,9 @@ FederalistPapers <- Papers |>
     )
   )|>
   group_by(paper) |>
-  mutate(linenumber = linenumber - first(linenumber) + 1) |>
+  mutate(line_number = line_number - first(line_number) + 1) |>
   ungroup() |>
-  mutate(roman_number = as.roman(paper))
+  mutate(roman_number = as.roman(paper)) |>
+  left_join(title_author)
+glimpse(FederalistPapers)
 usethis::use_data(FederalistPapers)
