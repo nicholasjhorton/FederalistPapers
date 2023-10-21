@@ -57,7 +57,7 @@ ambitious views. Candor will oblige us to admit that even such men may
 be actuated by upright intentions; and it cannot be doubted that much
 of the opposition which has made its appearance, or may hereafter make
 its appearance, will spring from sources, blameless at least, if not
-respectable—the honest errors of minds led astray by preconceived
+respectable-the honest errors of minds led astray by preconceived
 jealousies and fears. So numerous indeed and so powerful are the causes
 which serve to give a false bias to the judgment, that we, upon many
 occasions, see wise and good men on the wrong as well as on the right
@@ -225,7 +225,7 @@ highways for the easy communication of friendly aids, and the mutual
 transportation and exchange of their various commodities.
 
 With equal pleasure I have as often taken notice that Providence has
-been pleased to give this one connected country to one united people—a
+been pleased to give this one connected country to one united people-a
 people descended from the same ancestors, speaking the same language,
 professing the same religion, attached to the same principles of
 government, very similar in their manners and customs, and who, by
@@ -341,8 +341,8 @@ to foresee that the rejection of it would put the continuance of the
 Union in the utmost jeopardy. That certainly would be the case, and I
 sincerely wish that it may be as clearly foreseen by every good
 citizen, that whenever the dissolution of the Union arrives, America
-will have reason to exclaim, in the words of the poet: “FAREWELL! A
-LONG FAREWELL TO ALL MY GREATNESS.”
+will have reason to exclaim, in the words of the poet: "FAREWELL! A
+LONG FAREWELL TO ALL MY GREATNESS."
 
 PUBLIUS.
 
@@ -422,7 +422,7 @@ other contracted influence, may place men in State assemblies, or
 senates, or courts of justice, or executive departments, yet more
 general and extensive reputation for talents and other qualifications
 will be necessary to recommend men to offices under the national
-government,—especially as it will have the widest field for choice, and
+government,-especially as it will have the widest field for choice, and
 never experience that want of proper persons which is not uncommon in
 some of the States. Hence, it will result that the administration, the
 political counsels, and the judicial decisions of the national
@@ -432,7 +432,7 @@ other nations, as well as more SAFE with respect to us.
 
 Because, under the national government, treaties and articles of
 treaties, as well as the laws of nations, will always be expounded in
-one sense and executed in the same manner,—whereas, adjudications on
+one sense and executed in the same manner,-whereas, adjudications on
 the same points and questions, in thirteen States, or in three or four
 confederacies, will not always accord or be consistent; and that, as
 well from the variety of independent courts and judges appointed by
@@ -641,19 +641,19 @@ enemy so effectually as the single government of Great Britain would?
 We have heard much of the fleets of Britain, and the time may come, if
 we are wise, when the fleets of America may engage attention. But if
 one national government, had not so regulated the navigation of Britain
-as to make it a nursery for seamen—if one national government had not
+as to make it a nursery for seamen-if one national government had not
 called forth all the national means and materials for forming fleets,
 their prowess and their thunder would never have been celebrated. Let
-England have its navigation and fleet—let Scotland have its navigation
-and fleet—let Wales have its navigation and fleet—let Ireland have its
-navigation and fleet—let those four of the constituent parts of the
+England have its navigation and fleet-let Scotland have its navigation
+and fleet-let Wales have its navigation and fleet-let Ireland have its
+navigation and fleet-let those four of the constituent parts of the
 British empire be under four independent governments, and it is easy to
 perceive how soon they would each dwindle into comparative
 insignificance.
 
 Apply these facts to our own case. Leave America divided into thirteen
-or, if you please, into three or four independent governments—what
-armies could they raise and pay—what fleets could they ever hope to
+or, if you please, into three or four independent governments-what
+armies could they raise and pay-what fleets could they ever hope to
 have? If one was attacked, would the others fly to its succor, and
 spend their blood and money in its defense? Would there be no danger of
 their being flattered into neutrality by its specious promises, or
@@ -718,19 +718,19 @@ To the People of the State of New York:
 Queen Anne, in her letter of the 1st July, 1706, to the Scotch
 Parliament, makes some observations on the importance of the UNION then
 forming between England and Scotland, which merit our attention. I
-shall present the public with one or two extracts from it: “An entire
+shall present the public with one or two extracts from it: "An entire
 and perfect union will be the solid foundation of lasting peace: It
 will secure your religion, liberty, and property; remove the
 animosities amongst yourselves, and the jealousies and differences
 betwixt our two kingdoms. It must increase your strength, riches, and
 trade; and by this union the whole island, being joined in affection
 and free from all apprehensions of different interest, will be ENABLED
-TO RESIST ALL ITS ENEMIES.” “We most earnestly recommend to you
+TO RESIST ALL ITS ENEMIES." "We most earnestly recommend to you
 calmness and unanimity in this great and weighty affair, that the union
 may be brought to a happy conclusion, being the only EFFECTUAL way to
 secure our present and future happiness, and disappoint the designs of
 our and your enemies, who will doubtless, on this occasion, USE THEIR
-UTMOST ENDEAVORS TO PREVENT OR DELAY THIS UNION.”
+UTMOST ENDEAVORS TO PREVENT OR DELAY THIS UNION."
 
 It was remarked in the preceding paper, that weakness and divisions at
 home would invite dangers from abroad; and that nothing would tend more
@@ -752,8 +752,8 @@ useful and assisting to each other.
 
 Should the people of America divide themselves into three or four
 nations, would not the same thing happen? Would not similar jealousies
-arise, and be in like manner cherished? Instead of their being “joined
-in affection” and free from all apprehension of different “interests,”
+arise, and be in like manner cherished? Instead of their being "joined
+in affection" and free from all apprehension of different "interests,"
 envy and jealousy would soon extinguish confidence and affection, and
 the partial interests of each confederacy, instead of the general
 interests of all America, would be the only objects of their policy and
@@ -872,7 +872,7 @@ The three last numbers of this paper have been dedicated to an
 enumeration of the dangers to which we should be exposed, in a state of
 disunion, from the arms and arts of foreign nations. I shall now
 proceed to delineate dangers of a different and, perhaps, still more
-alarming kind—those which will in all probability flow from dissensions
+alarming kind-those which will in all probability flow from dissensions
 between the States themselves, and from domestic factions and
 convulsions. These have been already in some instances slightly
 anticipated; but they deserve a more particular and more full
@@ -892,7 +892,7 @@ defiance the accumulated experience of ages.
 The causes of hostility among nations are innumerable. There are some
 which have a general and almost constant operation upon the collective
 bodies of society. Of this description are the love of power or the
-desire of pre-eminence and dominion—the jealousy of power, or the
+desire of pre-eminence and dominion-the jealousy of power, or the
 desire of equality and safety. There are others which have a more
 circumscribed though an equally operative influence within their
 spheres. Such are the rivalships and competitions of commerce between
@@ -1029,7 +1029,7 @@ the war beyond the limits marked out by sound policy, and for a
 considerable time in opposition to the views of the court.
 
 The wars of these two last-mentioned nations have in a great measure
-grown out of commercial considerations,—the desire of supplanting and
+grown out of commercial considerations,-the desire of supplanting and
 the fear of being supplanted, either in particular branches of traffic
 or in the general advantages of trade and navigation.
 
@@ -1050,7 +1050,7 @@ Let the point of extreme depression to which our national dignity and
 credit have sunk, let the inconveniences felt everywhere from a lax and
 ill administration of government, let the revolt of a part of the State
 of North Carolina, the late menacing disturbances in Pennsylvania, and
-the actual insurrections and rebellions in Massachusetts, declare—!
+the actual insurrections and rebellions in Massachusetts, declare-!
 
 So far is the general sense of mankind from corresponding with the
 tenets of those who endeavor to lull asleep our apprehensions of
@@ -1058,17 +1058,17 @@ discord and hostility between the States, in the event of disunion,
 that it has from long observation of the progress of society become a
 sort of axiom in politics, that vicinity or nearness of situation,
 constitutes nations natural enemies. An intelligent writer expresses
-himself on this subject to this effect: “NEIGHBORING NATIONS (says he)
+himself on this subject to this effect: "NEIGHBORING NATIONS (says he)
 are naturally enemies of each other unless their common weakness forces
 them to league in a CONFEDERATE REPUBLIC, and their constitution
 prevents the differences that neighborhood occasions, extinguishing
 that secret jealousy which disposes all states to aggrandize themselves
-at the expense of their neighbors.”[11] This passage, at the same time,
+at the expense of their neighbors."[11] This passage, at the same time,
 points out the EVIL and suggests the REMEDY.
 
 PUBLIUS.
 
- [1] Aspasia, _vide_ Plutarch’s _Life of Pericles_.
+ [1] Aspasia, _vide_ Plutarch's _Life of Pericles_.
 
  [2] _Ibid_.
 
@@ -1092,7 +1092,7 @@ PUBLIUS.
 
  [10] The Duke of Marlborough.
 
- [11] _Vide Principes des Négociations_ par l’Abbé de Mably.
+ [11] _Vide Principes des Negociations_ par l'Abbe de Mably.
 
 
 
@@ -1112,7 +1112,7 @@ To the People of the State of New York:
 
 It is sometimes asked, with an air of seeming triumph, what inducements
 could the States have, if disunited, to make war upon each other? It
-would be a full answer to this question to say—precisely the same
+would be a full answer to this question to say-precisely the same
 inducements which have, at different times, deluged in blood all the
 nations in the world. But, unfortunately for us, the question admits of
 a more particular answer. There are causes of differences within our
@@ -1284,7 +1284,7 @@ of these States with their engagements would be a ground of bitter
 discussion and altercation. If even the rule adopted should in practice
 justify the equality of its principle, still delinquencies in payments
 on the part of some of the States would result from a diversity of
-other causes—the real deficiency of resources; the mismanagement of
+other causes-the real deficiency of resources; the mismanagement of
 their finances; accidental disorders in the management of the
 government; and, in addition to the rest, the reluctance with which men
 commonly part with money for purposes that have outlived the exigencies
@@ -1330,7 +1330,7 @@ PUBLIUS.
 
  [2] In order that the whole subject of these papers may as soon as
  possible be laid before the public, it is proposed to publish them
- four times a week—on Tuesday in the New York Packet and on Thursday in
+ four times a week-on Tuesday in the New York Packet and on Thursday in
  the Daily Advertiser.
 
 
@@ -1369,7 +1369,7 @@ introduction. The art of fortification has contributed to the same
 ends. The nations of Europe are encircled with chains of fortified
 places, which mutually obstruct invasion. Campaigns are wasted in
 reducing two or three frontier garrisons, to gain admittance into an
-enemy’s country. Similar impediments occur at every step, to exhaust
+enemy's country. Similar impediments occur at every step, to exhaust
 the strength and delay the progress of an invader. Formerly, an
 invading army would penetrate into the heart of a neighboring country
 almost as soon as intelligence of its approach could be received; but
@@ -1514,7 +1514,7 @@ had been situated on the continent, and had been compelled, as she
 would have been, by that situation, to make her military establishments
 at home coextensive with those of the other great powers of Europe,
 she, like them, would in all probability be, at this day, a victim to
-the absolute power of a single man. ’T is possible, though not easy,
+the absolute power of a single man. 'T is possible, though not easy,
 that the people of that island may be enslaved from other causes; but
 it cannot be by the prowess of an army so inconsiderable as that which
 has been usually kept up within the kingdom.
@@ -1528,7 +1528,7 @@ position, be necessary to our security. But if we should be disunited,
 and the integral parts should either remain separated, or, which is
 most probable, should be thrown together into two or three
 confederacies, we should be, in a short course of time, in the
-predicament of the continental powers of Europe —our liberties would be
+predicament of the continental powers of Europe -our liberties would be
 a prey to the means of defending ourselves against the ambition and
 jealousy of each other.
 
@@ -1671,24 +1671,24 @@ CONFEDERATE REPUBLIC as the expedient for extending the sphere of
 popular government, and reconciling the advantages of monarchy with
 those of republicanism.
 
-“It is very probable,” (says he[1]) “that mankind would have been
+"It is very probable," (says he[1]) "that mankind would have been
 obliged at length to live constantly under the government of a single
 person, had they not contrived a kind of constitution that has all the
 internal advantages of a republican, together with the external force
 of a monarchical government. I mean a CONFEDERATE REPUBLIC.
 
-“This form of government is a convention by which several smaller
+"This form of government is a convention by which several smaller
 STATES agree to become members of a larger ONE, which they intend to
 form. It is a kind of assemblage of societies that constitute a new
 one, capable of increasing, by means of new associations, till they
 arrive to such a degree of power as to be able to provide for the
 security of the united body.
 
-“A republic of this kind, able to withstand an external force, may
+"A republic of this kind, able to withstand an external force, may
 support itself without any internal corruptions. The form of this
 society prevents all manner of inconveniences.
 
-“If a single member should attempt to usurp the supreme authority, he
+"If a single member should attempt to usurp the supreme authority, he
 could not be supposed to have an equal authority and credit in all the
 confederate states. Were he to have too great influence over one, this
 would alarm the rest. Were he to subdue a part, that which would still
@@ -1696,16 +1696,16 @@ remain free might oppose him with forces independent of those which he
 had usurped and overpower him before he could be settled in his
 usurpation.
 
-“Should a popular insurrection happen in one of the confederate states
+"Should a popular insurrection happen in one of the confederate states
 the others are able to quell it. Should abuses creep into one part,
 they are reformed by those that remain sound. The state may be
 destroyed on one side, and not on the other; the confederacy may be
 dissolved, and the confederates preserve their sovereignty.
 
-“As this government is composed of small republics, it enjoys the
+"As this government is composed of small republics, it enjoys the
 internal happiness of each; and with respect to its external situation,
 it is possessed, by means of the association, of all the advantages of
-large monarchies.”
+large monarchies."
 
 I have thought it proper to quote at length these interesting passages,
 because they contain a luminous abridgment of the principal arguments
@@ -1734,8 +1734,8 @@ clearly shown in the course of this investigation that as far as the
 principle contended for has prevailed, it has been the cause of
 incurable disorder and imbecility in the government.
 
-The definition of a CONFEDERATE REPUBLIC seems simply to be “an
-assemblage of societies,” or an association of two or more states into
+The definition of a CONFEDERATE REPUBLIC seems simply to be "an
+assemblage of societies," or an association of two or more states into
 one state. The extent, modifications, and objects of the federal
 authority are mere matters of discretion. So long as the separate
 organization of the members be not abolished; so long as it exists, by
@@ -1757,8 +1757,8 @@ the respective CITIES. This was certainly the most, delicate species of
 interference in their internal administration; for if there be any
 thing that seems exclusively appropriated to the local jurisdictions,
 it is the appointment of their own officers. Yet Montesquieu, speaking
-of this association, says: “Were I to give a model of an excellent
-Confederate Republic, it would be that of Lycia.” Thus we perceive that
+of this association, says: "Were I to give a model of an excellent
+Confederate Republic, it would be that of Lycia." Thus we perceive that
 the distinctions insisted upon were not within the contemplation of
 this enlightened civilian; and we shall be led to conclude, that they
 are the novel refinements of an erroneous theory.
@@ -2045,7 +2045,7 @@ the number whose concurrence is necessary.
 
 Hence, it clearly appears, that the same advantage which a republic has
 over a democracy, in controlling the effects of faction, is enjoyed by
-a large over a small republic,—is enjoyed by the Union over the States
+a large over a small republic,-is enjoyed by the Union over the States
 composing it. Does the advantage consist in the substitution of
 representatives whose enlightened views and virtuous sentiments render
 them superior to local prejudices and schemes of injustice? It will not
@@ -2124,9 +2124,9 @@ at the same time, throughout the States, we may oblige foreign
 countries to bid against each other, for the privileges of our markets.
 This assertion will not appear chimerical to those who are able to
 appreciate the importance of the markets of three millions of
-people—increasing in rapid progression, for the most part exclusively
+people-increasing in rapid progression, for the most part exclusively
 addicted to agriculture, and likely from local circumstances to remain
-so—to any manufacturing nation; and the immense difference there would
+so-to any manufacturing nation; and the immense difference there would
 be to the trade and navigation of such a nation, between a direct
 communication in its own ships, and an indirect conveyance of its
 products and returns, to and from America, in the ships of another
@@ -2226,7 +2226,7 @@ and poverty and disgrace would overspread a country which, with wisdom,
 might make herself the admiration and envy of the world.
 
 There are rights of great moment to the trade of America which are
-rights of the Union—I allude to the fisheries, to the navigation of the
+rights of the Union-I allude to the fisheries, to the navigation of the
 Western lakes, and to that of the Mississippi. The dissolution of the
 Confederacy would give room for delicate questions concerning the
 future existence of these rights; which the interest of more powerful
@@ -2258,7 +2258,7 @@ partial confederacy, which would only embrace the resources of a single
 part. It happens, indeed, that different portions of confederated
 America possess each some peculiar advantage for this essential
 establishment. The more southern States furnish in greater abundance
-certain kinds of naval stores—tar, pitch, and turpentine. Their wood
+certain kinds of naval stores-tar, pitch, and turpentine. Their wood
 for the construction of ships is also of a more solid and lasting
 texture. The difference in the duration of the ships of which the navy
 might be composed, if chiefly constructed of Southern wood, would be of
@@ -2318,7 +2318,7 @@ World, and to consider the rest of mankind as created for her benefit.
 Men admired as profound philosophers have, in direct terms, attributed
 to her inhabitants a physical superiority, and have gravely asserted
 that all animals, and with them the human species, degenerate in
-America—that even dogs cease to bark after having breathed awhile in
+America-that even dogs cease to bark after having breathed awhile in
 our atmosphere.[1] Facts have too long supported these arrogant
 pretensions of the Europeans. It belongs to us to vindicate the honor
 of the human race, and to teach that assuming brother, moderation.
@@ -2332,7 +2332,7 @@ world!
 
 PUBLIUS.
 
- [1] “Recherches philosophiques sur les Américains.”
+ [1] "Recherches philosophiques sur les Americains."
 
 
 
@@ -2363,7 +2363,7 @@ precious metals, those darling objects of human avarice and enterprise,
 it serves to vivify and invigorate the channels of industry, and to
 make them flow with greater activity and copiousness. The assiduous
 merchant, the laborious husbandman, the active mechanic, and the
-industrious manufacturer,—all orders of men, look forward with eager
+industrious manufacturer,-all orders of men, look forward with eager
 expectation and growing alacrity to this pleasing reward of their
 toils. The often-agitated question between agriculture and commerce
 has, from indubitable experience, received a decision which has
@@ -2375,7 +2375,7 @@ risen in value. And how could it have happened otherwise? Could that
 which procures a freer vent for the products of the earth, which
 furnishes new incitements to the cultivation of land, which is the most
 powerful instrument in increasing the quantity of money in a
-state—could that, in fine, which is the faithful handmaid of labor and
+state-could that, in fine, which is the faithful handmaid of labor and
 industry, in every shape, fail to augment that article, which is the
 prolific parent of far the greatest part of the objects upon which they
 are exerted? It is astonishing that so simple a truth should ever have
@@ -2448,7 +2448,7 @@ increase the rate without prejudice to trade.
 The relative situation of these States; the number of rivers with which
 they are intersected, and of bays that wash there shores; the facility
 of communication in every direction; the affinity of language and
-manners; the familiar habits of intercourse; —all these are
+manners; the familiar habits of intercourse; -all these are
 circumstances that would conspire to render an illicit trade between
 them a matter of little difficulty, and would insure frequent evasions
 of the commercial regulations of each other. The separate States or
@@ -2474,7 +2474,7 @@ patrols are necessarily armed, would be intolerable in a free country.
 
 If, on the contrary, there be but one government pervading all the
 States, there will be, as to the principal part of our commerce, but
-ONE SIDE to guard—the ATLANTIC COAST. Vessels arriving directly from
+ONE SIDE to guard-the ATLANTIC COAST. Vessels arriving directly from
 foreign countries, laden with valuable cargoes, would rarely choose to
 hazard themselves to the complicated and critical perils which would
 attend attempts to unlade prior to their coming into port. They would
@@ -2577,13 +2577,13 @@ usefully applied to another, and there will be so much the less to be
 drawn from the pockets of the people. If the States are united under
 one government, there will be but one national civil list to support;
 if they are divided into several confederacies, there will be as many
-different national civil lists to be provided for—and each of them, as
+different national civil lists to be provided for-and each of them, as
 to the principal departments, coextensive with that which would be
 necessary for a government of the whole. The entire separation of the
 States into thirteen unconnected sovereignties is a project too
 extravagant and too replete with danger to have many advocates. The
 ideas of men who speculate upon the dismemberment of the empire seem
-generally turned toward three confederacies—one consisting of the four
+generally turned toward three confederacies-one consisting of the four
 Northern, another of the four Middle, and a third of the five Southern
 States. There is little probability that there would be a greater
 number. According to this distribution, each confederacy would comprise
@@ -2918,8 +2918,8 @@ without sacrificing utility to despatch.
 
 In pursuance of the plan which I have laid down for the discussion of
 the subject, the point next in order to be examined is the
-“insufficiency of the present Confederation to the preservation of the
-Union.” It may perhaps be asked what need there is of reasoning or
+"insufficiency of the present Confederation to the preservation of the
+Union." It may perhaps be asked what need there is of reasoning or
 proof to illustrate a position which is not either controverted or
 doubted, to which the understandings and feelings of all classes of men
 assent, and which in substance is admitted by the opponents as well as
@@ -3068,7 +3068,7 @@ the same thing, of a superintending power, under the direction of a
 common council, we must resolve to incorporate into our plan those
 ingredients which may be considered as forming the characteristic
 difference between a league and a government; we must extend the
-authority of the Union to the persons of the citizens, —the only proper
+authority of the Union to the persons of the citizens, -the only proper
 objects of government.
 
 Government implies the power of making laws. It is essential to the
@@ -3185,7 +3185,7 @@ upon our heads, and to crush us beneath its ruins.
 
 PUBLIUS.
 
- [1] “I mean for the Union.”
+ [1] "I mean for the Union."
 
 
 
@@ -3440,7 +3440,7 @@ and the possession of them, for that reason, would contribute nothing
 to the dignity, to the importance, or to the splendor of the national
 government.
 
-But let it be admitted, for argument’s sake, that mere wantonness and
+But let it be admitted, for argument's sake, that mere wantonness and
 lust of domination would be sufficient to beget that disposition; still
 it may be safely affirmed, that the sense of the constituent body of
 the national representatives, or, in other words, the people of the
@@ -3482,7 +3482,7 @@ afford.
 
 There is one transcendant advantage belonging to the province of the
 State governments, which alone suffices to place the matter in a clear
-and satisfactory light,—I mean the ordinary administration of criminal
+and satisfactory light,-I mean the ordinary administration of criminal
 and civil justice. This, of all others, is the most powerful, most
 universal, and most attractive source of popular obedience and
 attachment. It is that which, being the immediate and visible guardian
@@ -3980,7 +3980,7 @@ compared with the formidable powers all around them; the vast weight
 and influence which the emperor derives from his separate and
 heriditary dominions; and the interest he feels in preserving a system
 with which his family pride is connected, and which constitutes him the
-first prince in Europe; —these causes support a feeble and precarious
+first prince in Europe; -these causes support a feeble and precarious
 Union; whilst the repellant quality, incident to the nature of
 sovereignty, and which time continually strengthens, prevents any
 reform whatever, founded on a proper consolidation. Nor is it to be
@@ -4043,7 +4043,7 @@ Luzerne, at the head of the Catholic association, with France.
 
 PUBLIUS.
 
- [1] Pfeffel, “Nouvel Abrég. Chronol. de l’Hist., etc., d’Allemagne,”
+ [1] Pfeffel, "Nouvel Abreg. Chronol. de l'Hist., etc., d'Allemagne,"
  says the pretext was to indemnify himself for the expense of the
  expedition.
 
@@ -4186,14 +4186,14 @@ out of the full exercise of the largest constitutional authorities.
 Notwithstanding the calamities produced by the stadtholdership, it has
 been supposed that without his influence in the individual provinces,
 the causes of anarchy manifest in the confederacy would long ago have
-dissolved it. “Under such a government,” says the Abbe Mably, “the
+dissolved it. "Under such a government," says the Abbe Mably, "the
 Union could never have subsisted, if the provinces had not a spring
 within themselves, capable of quickening their tardiness, and
 compelling them to the same way of thinking. This spring is the
-stadtholder.” It is remarked by Sir William Temple, “that in the
+stadtholder." It is remarked by Sir William Temple, "that in the
 intermissions of the stadtholdership, Holland, by her riches and her
 authority, which drew the others into a sort of dependence, supplied
-the place.”
+the place."
 
 These are not the only circumstances which have controlled the tendency
 to anarchy and dissolution. The surrounding powers impose an absolute
@@ -4273,9 +4273,9 @@ is no express delegation of authority to them to use force against
 delinquent members; and if such a right should be ascribed to the
 federal head, as resulting from the nature of the social compact
 between the States, it must be by inference and construction, in the
-face of that part of the second article, by which it is declared, “that
+face of that part of the second article, by which it is declared, "that
 each State shall retain every power, jurisdiction, and right, not
-EXPRESSLY delegated to the United States in Congress assembled.” There
+EXPRESSLY delegated to the United States in Congress assembled." There
 is, doubtless, a striking absurdity in supposing that a right of this
 kind does not exist, but we are reduced to the dilemma either of
 embracing that supposition, preposterous as it may seem, or of
@@ -4366,7 +4366,7 @@ States, in relation to revenue, bear little or no analogy to their
 comparative stock in lands or to their comparative population. The
 position may be equally illustrated by a similar process between the
 counties of the same State. No man who is acquainted with the State of
-New York will doubt that the active wealth of King’s County bears a
+New York will doubt that the active wealth of King's County bears a
 much greater proportion to that of Montgomery than it would appear to
 be if we should take either the total value of the lands or the total
 number of the people as a criterion!
@@ -4418,8 +4418,8 @@ It is a signal advantage of taxes on articles of consumption, that they
 contain in their own nature a security against excess. They prescribe
 their own limit; which cannot be exceeded without defeating the end
 proposed, that is, an extension of the revenue. When applied to this
-object, the saying is as just as it is witty, that, “in political
-arithmetic, two and two do not always make four.”
+object, the saying is as just as it is witty, that, "in political
+arithmetic, two and two do not always make four."
 
 If duties are too high, they lessen the consumption; the collection is
 eluded; and the product to the treasury is not so great as when they
@@ -4511,12 +4511,12 @@ just cause of umbrage and complaint to others, and it is to be feared
 that examples of this nature, if not restrained by a national control,
 would be multiplied and extended till they became not less serious
 sources of animosity and discord than injurious impediments to the
-intercourse between the different parts of the Confederacy. “The
+intercourse between the different parts of the Confederacy. "The
 commerce of the German empire[2] is in continual trammels from the
 multiplicity of the duties which the several princes and states exact
 upon the merchandises passing through their territories, by means of
 which the fine streams and navigable rivers with which Germany is so
-happily watered are rendered almost useless.” Though the genius of the
+happily watered are rendered almost useless." Though the genius of the
 people of this country might never permit this description to be
 strictly applicable to us, yet we may reasonably expect, from the
 gradual conflicts of State regulations, that the citizens of each would
@@ -4693,7 +4693,7 @@ well known that the deputies of the United Provinces have, in various
 instances, been purchased by the emissaries of the neighboring
 kingdoms. The Earl of Chesterfield (if my memory serves me right), in a
 letter to his court, intimates that his success in an important
-negotiation must depend on his obtaining a major’s commission for one
+negotiation must depend on his obtaining a major's commission for one
 of those deputies. And in Sweden the parties were alternately bought by
 France and England in so barefaced and notorious a manner that it
 excited universal disgust in the nation, and was a principal cause that
@@ -4800,7 +4800,7 @@ PUBLIUS.
  [1] This, as nearly as I can recollect, was the sense of his speech on
  introducing the last bill.
 
- [2] Encyclopedia, article “Empire.”
+ [2] Encyclopedia, article "Empire."
 
  [3] New Hampshire, Rhode Island, New Jersey, Delaware, Georgia, South
  Carolina, and Maryland are a majority of the whole number of the
@@ -4887,7 +4887,7 @@ As their requisitions are made constitutionally binding upon the
 States, who are in fact under the most solemn obligations to furnish
 the supplies required of them, the intention evidently was that the
 United States should command whatever resources were by them judged
-requisite to the “common defense and general welfare.” It was presumed
+requisite to the "common defense and general welfare." It was presumed
 that a sense of their true interests, and a regard to the dictates of
 good faith, would be found sufficient pledges for the punctual
 performance of the duty of the members to the federal head.
@@ -5194,13 +5194,13 @@ PUBLIUS.
 
  [1] This statement of the matter is taken from the printed collection
  of State constitutions. Pennsylvania and North Carolina are the two
- which contain the interdiction in these words: “As standing armies in
- time of peace are dangerous to liberty, THEY OUGHT NOT to be kept up.”
+ which contain the interdiction in these words: "As standing armies in
+ time of peace are dangerous to liberty, THEY OUGHT NOT to be kept up."
  This is, in truth, rather a CAUTION than a PROHIBITION. New Hampshire,
  Massachusetts, Delaware, and Maryland have, in each of their bils of
- rights, a clause to this effect: “Standing armies are dangerous to
+ rights, a clause to this effect: "Standing armies are dangerous to
  liberty, and ought not to be raised or kept up WITHOUT THE CONSENT OF
- THE LEGISLATURE”; which is a formal admission of the authority of the
+ THE LEGISLATURE"; which is a formal admission of the authority of the
  Legislature. New York has no bills of rights, and her constitution
  says not a word about the matter. No bills of rights appear annexed to
  the constitutions of the other States, except the foregoing, and their
@@ -5300,7 +5300,7 @@ prohibition should extend; whether to raising armies as well as to
 KEEPING THEM UP in a season of tranquillity or not. If it be confined
 to the latter it will have no precise signification, and it will be
 ineffectual for the purpose intended. When armies are once raised what
-shall be denominated “keeping them up,” contrary to the sense of the
+shall be denominated "keeping them up," contrary to the sense of the
 Constitution? What time shall be requisite to ascertain the violation?
 Shall it be a week, a month, a year? Or shall we say they may be
 continued as long as the danger which occasioned their being raised
@@ -5490,9 +5490,9 @@ crown, Charles II. had, by his own authority, kept on foot in time of
 peace a body of 5,000 regular troops. And this number James II.
 increased to 30,000; who were paid out of his civil list. At the
 revolution, to abolish the exercise of so dangerous an authority, it
-became an article of the Bill of Rights then framed, that “the raising
+became an article of the Bill of Rights then framed, that "the raising
 or keeping a standing army within the kingdom in time of peace, UNLESS
-WITH THE CONSENT OF PARLIAMENT, was against law.”
+WITH THE CONSENT OF PARLIAMENT, was against law."
 
 In that kingdom, when the pulse of liberty was at its highest pitch, no
 security against the danger of standing armies was thought requisite,
@@ -6016,12 +6016,12 @@ in military functions which would be essential to their usefulness.
 This desirable uniformity can only be accomplished by confiding the
 regulation of the militia to the direction of the national authority.
 It is, therefore, with the most evident propriety, that the plan of the
-convention proposes to empower the Union “to provide for organizing,
+convention proposes to empower the Union "to provide for organizing,
 arming, and disciplining the militia, and for governing such part of
 them as may be employed in the service of the United States, RESERVING
 TO THE STATES RESPECTIVELY THE APPOINTMENT OF THE OFFICERS, AND THE
 AUTHORITY OF TRAINING THE MILITIA ACCORDING TO THE DISCIPLINE
-PRESCRIBED BY CONGRESS.”
+PRESCRIBED BY CONGRESS."
 
 Of the different grounds which have been taken in opposition to the
 plan of the convention, there is none that was so little to have been
@@ -6085,7 +6085,7 @@ of the federal legislature from this State on the subject of a militia
 establishment, I should hold to him, in substance, the following
 discourse:
 
-“The project of disciplining all the militia of the United States is as
+"The project of disciplining all the militia of the United States is as
 futile as it would be injurious, if it were capable of being carried
 into execution. A tolerable expertness in military movements is a
 business that requires time and practice. It is not a day, or even a
@@ -6107,7 +6107,7 @@ people at large, than to have them properly armed and equipped; and in
 order to see that this be not neglected, it will be necessary to
 assemble them once or twice in the course of a year.
 
-“But though the scheme of disciplining the whole nation must be
+"But though the scheme of disciplining the whole nation must be
 abandoned as mischievous or impracticable; yet it is a matter of the
 utmost importance that a well-digested plan should, as soon as
 possible, be adopted for the proper establishment of the militia. The
@@ -6124,7 +6124,7 @@ of citizens, little, if at all, inferior to them in discipline and the
 use of arms, who stand ready to defend their own rights and those of
 their fellow-citizens. This appears to me the only substitute that can
 be devised for a standing army, and the best possible security against
-it, if it should exist.”
+it, if it should exist."
 
 Thus differently from the adversaries of the proposed Constitution
 should I reason on the same subject, deducing arguments of safety from
@@ -6156,9 +6156,9 @@ influence over the militia.
 In reading many of the publications against the Constitution, a man is
 apt to imagine that he is perusing some ill-written tale or romance,
 which instead of natural and agreeable images, exhibits to the mind
-nothing but frightful and distorted shapes—
+nothing but frightful and distorted shapes-
 
-“Gorgons, hydras, and chimeras dire;”
+"Gorgons, hydras, and chimeras dire;"
 
 discoloring and disfiguring whatever it represents, and transforming
 everything it touches into a monster.
@@ -6168,7 +6168,7 @@ suggestions which have taken place respecting the power of calling for
 the services of the militia. That of New Hampshire is to be marched to
 Georgia, of Georgia to New Hampshire, of New York to Kentucky, and of
 Kentucky to Lake Champlain. Nay, the debts due to the French and Dutch
-are to be paid in militiamen instead of louis d’ors and ducats. At one
+are to be paid in militiamen instead of louis d'ors and ducats. At one
 moment there is to be a large army to lay prostrate the liberties of
 the people; at another moment the militia of Virginia are to be dragged
 from their homes five or six hundred miles, to tame the republican
@@ -6358,7 +6358,7 @@ plans of public good?
 
 Let us attend to what would be the effects of this situation in the
 very first war in which we should happen to be engaged. We will
-presume, for argument’s sake, that the revenue arising from the impost
+presume, for argument's sake, that the revenue arising from the impost
 duties answers the purposes of a provision for the public debt and of a
 peace establishment for the Union. Thus circumstanced, a war breaks
 out. What would be the probable conduct of the government in such an
@@ -6438,9 +6438,9 @@ or combination, commands the assent of the mind. Where it produces not
 this effect, it must proceed either from some defect or disorder in the
 organs of perception, or from the influence of some strong interest, or
 passion, or prejudice. Of this nature are the maxims in geometry, that
-“the whole is greater than its part; things equal to the same are equal
+"the whole is greater than its part; things equal to the same are equal
 to one another; two straight lines cannot enclose a space; and all
-right angles are equal to each other.” Of the same nature are these
+right angles are equal to each other." Of the same nature are these
 other maxims in ethics and politics, that there cannot be an effect
 without a cause; that the means ought to be proportioned to the end;
 that every power ought to be commensurate with its object; that there
@@ -6524,7 +6524,7 @@ the plan. It may therefore be satisfactory to analyze the arguments
 with which they combat it.
 
 Those of them which have been most labored with that view, seem in
-substance to amount to this: “It is not true, because the exigencies of
+substance to amount to this: "It is not true, because the exigencies of
 the Union may not be susceptible of limitation, that its power of
 laying taxes ought to be unconfined. Revenue is as requisite to the
 purposes of the local administrations as to those of the Union; and the
@@ -6544,7 +6544,7 @@ State objects upon the pretense of an interference with its own. It
 might allege a necessity of doing this in order to give efficacy to the
 national revenues. And thus all the resources of taxation might by
 degrees become the subjects of federal monopoly, to the entire
-exclusion and destruction of the State governments.”
+exclusion and destruction of the State governments."
 
 This mode of reasoning appears sometimes to turn upon the supposition
 of usurpation in the national government; at other times it seems to be
@@ -6657,21 +6657,21 @@ repugnancy in point of constitutional authority. These three cases of
 exclusive jurisdiction in the federal government may be exemplified by
 the following instances: The last clause but one in the eighth section
 of the first article provides expressly that Congress shall exercise
-“EXCLUSIVE LEGISLATION” over the district to be appropriated as the
+"EXCLUSIVE LEGISLATION" over the district to be appropriated as the
 seat of government. This answers to the first case. The first clause of
-the same section empowers Congress “TO LAY AND COLLECT TAXES, DUTIES,
-IMPOSTS AND EXCISES”; and the second clause of the tenth section of the
-same article declares that, “NO STATE SHALL, without the consent of
+the same section empowers Congress "TO LAY AND COLLECT TAXES, DUTIES,
+IMPOSTS AND EXCISES"; and the second clause of the tenth section of the
+same article declares that, "NO STATE SHALL, without the consent of
 Congress, LAY ANY IMPOSTS OR DUTIES ON IMPORTS OR EXPORTS, except for
-the purpose of executing its inspection laws.” Hence would result an
+the purpose of executing its inspection laws." Hence would result an
 exclusive power in the Union to lay duties on imports and exports, with
 the particular exception mentioned; but this power is abridged by
 another clause, which declares that no tax or duty shall be laid on
 articles exported from any State; in consequence of which
 qualification, it now only extends to the DUTIES ON IMPORTS. This
 answers to the second case. The third will be found in that clause
-which declares that Congress shall have power “to establish an UNIFORM
-RULE of naturalization throughout the United States.” This must
+which declares that Congress shall have power "to establish an UNIFORM
+RULE of naturalization throughout the United States." This must
 necessarily be exclusive; because if each State had power to prescribe
 a DISTINCT RULE, there could not be a UNIFORM RULE.
 
@@ -6773,14 +6773,14 @@ To the People of the State of New York:
 The residue of the argument against the provisions of the Constitution
 in respect to taxation is ingrafted upon the following clause. The last
 clause of the eighth section of the first article of the plan under
-consideration authorizes the national legislature “to make all laws
+consideration authorizes the national legislature "to make all laws
 which shall be NECESSARY and PROPER for carrying into execution THE
 POWERS by that Constitution vested in the government of the United
-States, or in any department or officer thereof”; and the second clause
-of the sixth article declares, “that the Constitution and the laws of
+States, or in any department or officer thereof"; and the second clause
+of the sixth article declares, "that the Constitution and the laws of
 the United States made IN PURSUANCE THEREOF, and the treaties made by
 their authority shall be the SUPREME LAW of the land, any thing in the
-constitution or laws of any State to the contrary notwithstanding.”
+constitution or laws of any State to the contrary notwithstanding."
 
 These two clauses have been the source of much virulent invective and
 petulant declamation against the proposed Constitution. They have been
@@ -7134,10 +7134,10 @@ particular States, and would have left them dependent on the Union for
 a provision for this purpose.
 
 The preceding train of observation will justify the position which has
-been elsewhere laid down, that “A CONCURRENT JURISDICTION in the
+been elsewhere laid down, that "A CONCURRENT JURISDICTION in the
 article of taxation was the only admissible substitute for an entire
 subordination, in respect to this branch of power, of State authority
-to that of the Union.” Any separation of the objects of revenue that
+to that of the Union." Any separation of the objects of revenue that
 could have been fallen upon, would have amounted to a sacrifice of the
 great INTERESTS of the Union to the POWER of the individual States. The
 convention thought the concurrent jurisdiction preferable to that
@@ -7517,8 +7517,8 @@ people must furnish the rule, a circumstance which effectually shuts
 the door to partiality or oppression. The abuse of this power of
 taxation seems to have been provided against with guarded
 circumspection. In addition to the precaution just mentioned, there is
-a provision that “all duties, imposts, and excises shall be UNIFORM
-throughout the United States.”
+a provision that "all duties, imposts, and excises shall be UNIFORM
+throughout the United States."
 
 It has been very properly observed by different speakers and writers on
 the side of the Constitution, that if the exercise of the power of
@@ -8130,11 +8130,11 @@ republican jealousy. No part of the arrangement, according to some, is
 more inadmissible than the trial of impeachments by the Senate, which
 is alternately a member both of the legislative and executive
 departments, when this power so evidently belonged to the judiciary
-department. “We concur fully,” reply others, “in the objection to this
+department. "We concur fully," reply others, "in the objection to this
 part of the plan, but we can never agree that a reference of
 impeachments to the judiciary authority would be an amendment of the
 error. Our principal dislike to the organization arises from the
-extensive powers already lodged in that department.” Even among the
+extensive powers already lodged in that department." Even among the
 zealous patrons of a council of state the most irreconcilable variance
 is discovered concerning the mode in which it ought to be constituted.
 The demand of one gentleman is, that the council should consist of a
@@ -8370,12 +8370,12 @@ prohibition of titles of nobility, both under the federal and the State
 governments; and in its express guaranty of the republican form to each
 of the latter.
 
-“But it was not sufficient,” say the adversaries of the proposed
-Constitution, “for the convention to adhere to the republican form.
+"But it was not sufficient," say the adversaries of the proposed
+Constitution, "for the convention to adhere to the republican form.
 They ought, with equal care, to have preserved the FEDERAL form, which
 regards the Union as a CONFEDERACY of sovereign states; instead of
 which, they have framed a NATIONAL government, which regards the Union
-as a CONSOLIDATION of the States.” And it is asked by what authority
+as a CONSOLIDATION of the States." And it is asked by what authority
 this bold and radical innovation was undertaken? The handle which has
 been made of this objection requires that it should be examined with
 some precision.
@@ -8548,14 +8548,14 @@ constituents. As all of these, however, had reference, either to the
 recommendation from the meeting at Annapolis, in September, 1786, or to
 that from Congress, in February, 1787, it will be sufficient to recur
 to these particular acts. The act from Annapolis recommends the
-“appointment of commissioners to take into consideration the situation
+"appointment of commissioners to take into consideration the situation
 of the United States; to devise SUCH FURTHER PROVISIONS as shall appear
 to them necessary to render the Constitution of the federal government
 ADEQUATE TO THE EXIGENCIES OF THE UNION; and to report such an act for
 that purpose, to the United States in Congress assembled, as when
 agreed to by them, and afterwards confirmed by the legislature of every
-State, will effectually provide for the same. “The recommendatory act
-of Congress is in the words following: “WHEREAS, There is provision in
+State, will effectually provide for the same. "The recommendatory act
+of Congress is in the words following: "WHEREAS, There is provision in
 the articles of Confederation and perpetual Union, for making
 alterations therein, by the assent of a Congress of the United States,
 and of the legislatures of the several States; and whereas experience
@@ -8564,7 +8564,7 @@ mean to remedy which, several of the States, and PARTICULARLY THE STATE
 OF NEW YORK, by express instructions to their delegates in Congress,
 have suggested a convention for the purposes expressed in the following
 resolution; and such convention appearing to be the most probable mean
-of establishing in these States A FIRM NATIONAL GOVERNMENT: “Resolved,
+of establishing in these States A FIRM NATIONAL GOVERNMENT: "Resolved,
 That in the opinion of Congress it is expedient, that on the second
 Monday of May next a convention of delegates, who shall have been
 appointed by the several States, be held at Philadelphia, for the sole
@@ -8572,7 +8572,7 @@ and express purpose OF REVISING THE ARTICLES OF CONFEDERATION, and
 reporting to Congress and the several legislatures such ALTERATIONS AND
 PROVISIONS THEREIN, as shall, when agreed to in Congress, and confirmed
 by the States, render the federal Constitution ADEQUATE TO THE
-EXIGENCIES OF GOVERNMENT AND THE PRESERVATION OF THE UNION. “From these
+EXIGENCIES OF GOVERNMENT AND THE PRESERVATION OF THE UNION. "From these
 two acts, it appears, 1st, that the object of the convention was to
 establish, in these States, A FIRM NATIONAL GOVERNMENT; 2d, that this
 government was to be such as would be ADEQUATE TO THE EXIGENCIES OF
@@ -8741,9 +8741,9 @@ infinitely less urgent than those by which their conduct was to be
 governed. They must have reflected, that in all great changes of
 established governments, forms ought to give way to substance; that a
 rigid adherence in such cases to the former, would render nominal and
-nugatory the transcendent and precious right of the people to “abolish
+nugatory the transcendent and precious right of the people to "abolish
 or alter their governments as to them shall seem most likely to effect
-their safety and happiness,”[2] since it is impossible for the people
+their safety and happiness,"[2] since it is impossible for the people
 spontaneously and universally to move in concert towards their object;
 and it is therefore essential that such changes be instituted by some
 INFORMAL AND UNAUTHORIZED PROPOSITIONS, made by some patriotic and
@@ -9085,9 +9085,9 @@ duration, ought to contemplate these revolutions, and be able to
 accommodate itself to them. Some, who have not denied the necessity of
 the power of taxation, have grounded a very fierce attack against the
 Constitution, on the language in which it is defined. It has been urged
-and echoed, that the power “to lay and collect taxes, duties, imposts,
+and echoed, that the power "to lay and collect taxes, duties, imposts,
 and excises, to pay the debts, and provide for the common defense and
-general welfare of the United States,” amounts to an unlimited
+general welfare of the United States," amounts to an unlimited
 commission to exercise every power which may be alleged to be necessary
 for the common defense or general welfare. No stronger proof could be
 given of the distress under which these writers labor for objections,
@@ -9099,7 +9099,7 @@ been difficult to find a reason for so awkward a form of describing an
 authority to legislate in all possible cases. A power to destroy the
 freedom of the press, the trial by jury, or even to regulate the course
 of descents, or the forms of conveyances, must be very singularly
-expressed by the terms “to raise money for the general welfare. “But
+expressed by the terms "to raise money for the general welfare. "But
 what color can the objection have, when a specification of the objects
 alluded to by these general terms immediately follows, and is not even
 separated by a longer pause than a semicolon? If the different parts of
@@ -9121,11 +9121,11 @@ liberty of supposing, had not its origin with the latter. The objection
 here is the more extraordinary, as it appears that the language used by
 the convention is a copy from the articles of Confederation. The
 objects of the Union among the States, as described in article third,
-are “their common defense, security of their liberties, and mutual and
-general welfare. “ The terms of article eighth are still more
-identical: “All charges of war and all other expenses that shall be
+are "their common defense, security of their liberties, and mutual and
+general welfare. " The terms of article eighth are still more
+identical: "All charges of war and all other expenses that shall be
 incurred for the common defense or general welfare, and allowed by the
-United States in Congress, shall be defrayed out of a common treasury,”
+United States in Congress, shall be defrayed out of a common treasury,"
 etc. A similar language again occurs in article ninth. Construe either
 of these articles by the rules which would justify the construction put
 on the new Constitution, and they vest in the existing Congress a power
@@ -9172,7 +9172,7 @@ them are comprised in the articles of Confederation, with this
 difference only, that the former is disembarrassed, by the plan of the
 convention, of an exception, under which treaties might be
 substantially frustrated by regulations of the States; and that a power
-of appointing and receiving “other public ministers and consuls,” is
+of appointing and receiving "other public ministers and consuls," is
 expressly and very properly added to the former provision concerning
 ambassadors. The term ambassador, if taken strictly, as seems to be
 required by the second of the articles of Confederation, comprehends
@@ -9343,16 +9343,16 @@ regulating coin.
 The dissimilarity in the rules of naturalization has long been remarked
 as a fault in our system, and as laying a foundation for intricate and
 delicate questions. In the fourth article of the Confederation, it is
-declared “that the FREE INHABITANTS of each of these States, paupers,
+declared "that the FREE INHABITANTS of each of these States, paupers,
 vagabonds, and fugitives from justice, excepted, shall be entitled to
 all privileges and immunities of FREE CITIZENS in the several States;
 and THE PEOPLE of each State shall, in every other, enjoy all the
-privileges of trade and commerce,” etc. There is a confusion of
+privileges of trade and commerce," etc. There is a confusion of
 language here, which is remarkable. Why the terms FREE INHABITANTS are
 used in one part of the article, FREE CITIZENS in another, and PEOPLE
-in another; or what was meant by superadding to “all privileges and
-immunities of free citizens,” “all the privileges of trade and
-commerce,” cannot easily be determined. It seems to be a construction
+in another; or what was meant by superadding to "all privileges and
+immunities of free citizens," "all the privileges of trade and
+commerce," cannot easily be determined. It seems to be a construction
 scarcely avoidable, however, that those who come under the denomination
 of FREE INHABITANTS of a State, although not citizens of such State,
 are entitled, in every other State, to all the privileges of FREE
@@ -9362,7 +9362,7 @@ particular State, or rather every State is laid under a necessity, not
 only to confer the rights of citizenship in other States upon any whom
 it may admit to such rights within itself, but upon any whom it may
 allow to become inhabitants within its jurisdiction. But were an
-exposition of the term “inhabitants” to be admitted which would confine
+exposition of the term "inhabitants" to be admitted which would confine
 the stipulated privileges to citizens alone, the difficulty is
 diminished only, not removed. The very improper power would still be
 retained by each State, of naturalizing aliens in every other State. In
@@ -9426,9 +9426,9 @@ MADISON
 To the People of the State of New York:
 
 The fourth class comprises the following miscellaneous powers:1. A
-power “to promote the progress of science and useful arts, by securing,
+power "to promote the progress of science and useful arts, by securing,
 for a limited time, to authors and inventors, the exclusive right to
-their respective writings and discoveries. “The utility of this power
+their respective writings and discoveries. "The utility of this power
 will scarcely be questioned. The copyright of authors has been solemnly
 adjudged, in Great Britain, to be a right of common law. The right to
 useful inventions seems with equal reason to belong to the inventors.
@@ -9436,14 +9436,14 @@ useful inventions seems with equal reason to belong to the inventors.
 The public good fully coincides in both cases with the claims of
 individuals. The States cannot separately make effectual provisions for
 either of the cases, and most of them have anticipated the decision of
-this point, by laws passed at the instance of Congress. 2. “To exercise
+this point, by laws passed at the instance of Congress. 2. "To exercise
 exclusive legislation, in all cases whatsoever, over such district (not
 exceeding ten miles square) as may, by cession of particular States and
 the acceptance of Congress, become the seat of the government of the
 United States; and to exercise like authority over all places purchased
 by the consent of the legislatures of the States in which the same
 shall be, for the erection of forts, magazines, arsenals, dockyards,
-and other needful buildings. “The indispensable necessity of complete
+and other needful buildings. "The indispensable necessity of complete
 authority at the seat of government, carries its own evidence with it.
 It is a power exercised by every legislature of the Union, I might say
 of the world, by virtue of its general supremacy. Without it, not only
@@ -9479,9 +9479,9 @@ particular State. Nor would it be proper for the places on which the
 security of the entire Union may depend, to be in any degree dependent
 on a particular member of it. All objections and scruples are here also
 obviated, by requiring the concurrence of the States concerned, in
-every such establishment. 3. “To declare the punishment of treason, but
+every such establishment. 3. "To declare the punishment of treason, but
 no attainder of treason shall work corruption of blood, or forfeiture,
-except during the life of the person attained. “As treason may be
+except during the life of the person attained. "As treason may be
 committed against the United States, the authority of the United States
 ought to be enabled to punish it. But as new-fangled and artificial
 treasons have been the great engines by which violent factions, the
@@ -9491,11 +9491,11 @@ judgment, opposed a barrier to this peculiar danger, by inserting a
 constitutional definition of the crime, fixing the proof necessary for
 conviction of it, and restraining the Congress, even in punishing it,
 from extending the consequences of guilt beyond the person of its
-author. 4. “To admit new States into the Union; but no new State shall
+author. 4. "To admit new States into the Union; but no new State shall
 be formed or erected within the jurisdiction of any other State; nor
 any State be formed by the junction of two or more States, or parts of
 States, without the consent of the legislatures of the States
-concerned, as well as of the Congress. “In the articles of
+concerned, as well as of the Congress. "In the articles of
 Confederation, no provision is found on this important subject. Canada
 was to be admitted of right, on her joining in the measures of the
 United States; and the other COLONIES, by which were evidently meant
@@ -9511,19 +9511,19 @@ govern such transactions. The particular precaution against the
 erection of new States, by the partition of a State without its
 consent, quiets the jealousy of the larger States; as that of the
 smaller is quieted by a like precaution, against a junction of States
-without their consent. 5. “To dispose of and make all needful rules and
+without their consent. 5. "To dispose of and make all needful rules and
 regulations respecting the territory or other property belonging to the
 United States, with a proviso, that nothing in the Constitution shall
 be so construed as to prejudice any claims of the United States, or of
-any particular State. “This is a power of very great importance, and
+any particular State. "This is a power of very great importance, and
 required by considerations similar to those which show the propriety of
 the former. The proviso annexed is proper in itself, and was probably
 rendered absolutely necessary by jealousies and questions concerning
-the Western territory sufficiently known to the public. 6. “To
+the Western territory sufficiently known to the public. 6. "To
 guarantee to every State in the Union a republican form of government;
 to protect each of them against invasion; and on application of the
 legislature, or of the executive (when the legislature cannot be
-convened), against domestic violence. “In a confederacy founded on
+convened), against domestic violence. "In a confederacy founded on
 republican principles, and composed of republican members, the
 superintending government ought clearly to possess authority to defend
 the system against aristocratic or monarchial innovations. The more
@@ -9534,12 +9534,12 @@ compact was entered into should be SUBSTANTIALLY maintained. But a
 right implies a remedy; and where else could the remedy be deposited,
 than where it is deposited by the Constitution? Governments of
 dissimilar principles and forms have been found less adapted to a
-federal coalition of any sort, than those of a kindred nature. “As the
-confederate republic of Germany,” says Montesquieu, “consists of free
+federal coalition of any sort, than those of a kindred nature. "As the
+confederate republic of Germany," says Montesquieu, "consists of free
 cities and petty states, subject to different princes, experience shows
-us that it is more imperfect than that of Holland and Switzerland. “
-“Greece was undone,” he adds, “as soon as the king of Macedon obtained
-a seat among the Amphictyons. “ In the latter case, no doubt, the
+us that it is more imperfect than that of Holland and Switzerland. "
+"Greece was undone," he adds, "as soon as the king of Macedon obtained
+a seat among the Amphictyons. " In the latter case, no doubt, the
 disproportionate force, as well as the monarchical form, of the new
 confederate, had its share of influence on the events. It may possibly
 be asked, what need there could be of such a precaution, and whether it
@@ -9636,12 +9636,12 @@ probability; and that it is a sufficient recommendation of the federal
 Constitution, that it diminishes the risk of a calamity for which no
 possible constitution can provide a cure. Among the advantages of a
 confederate republic enumerated by Montesquieu, an important one is,
-“that should a popular insurrection happen in one of the States, the
+"that should a popular insurrection happen in one of the States, the
 others are able to quell it. Should abuses creep into one part, they
-are reformed by those that remain sound. “7. “To consider all debts
+are reformed by those that remain sound. "7. "To consider all debts
 contracted, and engagements entered into, before the adoption of this
 Constitution, as being no less valid against the United States, under
-this Constitution, than under the Confederation. “This can only be
+this Constitution, than under the Confederation. "This can only be
 considered as a declaratory proposition; and may have been inserted,
 among other reasons, for the satisfaction of the foreign creditors of
 the United States, who cannot be strangers to the pretended doctrine,
@@ -9661,9 +9661,9 @@ case. They may be further told, that every constitution must limit its
 precautions to dangers that are not altogether imaginary; and that no
 real danger can exist that the government would DARE, with, or even
 without, this constitutional declaration before it, to remit the debts
-justly due to the public, on the pretext here condemned. 8. “To provide
+justly due to the public, on the pretext here condemned. 8. "To provide
 for amendments to be ratified by three fourths of the States under two
-exceptions only. “That useful alterations will be suggested by
+exceptions only. "That useful alterations will be suggested by
 experience, could not but be foreseen. It was requisite, therefore,
 that a mode for introducing them should be provided. The mode preferred
 by the convention seems to be stamped with every mark of propriety. It
@@ -9678,9 +9678,9 @@ of the States, implied and secured by that principle of representation
 in one branch of the legislature; and was probably insisted on by the
 States particularly attached to that equality. The other exception must
 have been admitted on the same considerations which produced the
-privilege defended by it. 9. “The ratification of the conventions of
+privilege defended by it. 9. "The ratification of the conventions of
 nine States shall be sufficient for the establishment of this
-Constitution between the States, ratifying the same. “This article
+Constitution between the States, ratifying the same. "This article
 speaks for itself.
 
 The express authority of the people alone could give due validity to
@@ -9696,7 +9696,7 @@ to it? 2. What relation is to subsist between the nine or more States
 ratifying the Constitution, and the remaining few who do not become
 parties to it? The first question is answered at once by recurring to
 the absolute necessity of the case; to the great principle of
-self-preservation; to the transcendent law of nature and of nature’s
+self-preservation; to the transcendent law of nature and of nature's
 God, which declares that the safety and happiness of society are the
 objects at which all political institutions aim, and to which all such
 institutions must be sacrificed. PERHAPS, also, an answer may be found
@@ -9751,11 +9751,11 @@ To the People of the State of New York:
 
 A fifth class of provisions in favor of the federal authority consists
 of the following restrictions on the authority of the several States:1.
-“No State shall enter into any treaty, alliance, or confederation;
+"No State shall enter into any treaty, alliance, or confederation;
 grant letters of marque and reprisal; coin money; emit bills of credit;
 make any thing but gold and silver a legal tender in payment of debts;
 pass any bill of attainder, ex-post-facto law, or law impairing the
-obligation of contracts; or grant any title of nobility. “The
+obligation of contracts; or grant any title of nobility. "The
 prohibition against treaties, alliances, and confederations makes a
 part of the existing articles of Union; and for reasons which need no
 explanation, is copied into the new Constitution. The prohibition of
@@ -9834,7 +9834,7 @@ infer, therefore, that some thorough reform is wanting, which will
 banish speculations on public measures, inspire a general prudence and
 industry, and give a regular course to the business of society. The
 prohibition with respect to titles of nobility is copied from the
-articles of Confederation and needs no comment. 2. “No State shall,
+articles of Confederation and needs no comment. 2. "No State shall,
 without the consent of the Congress, lay any imposts or duties on
 imports or exports, except what may be absolutely necessary for
 executing its inspection laws, and the net produce of all duties and
@@ -9845,7 +9845,7 @@ without the consent of Congress, lay any duty on tonnage, keep troops
 or ships of war in time of peace, enter into any agreement or compact
 with another State, or with a foreign power, or engage in war unless
 actually invaded, or in such imminent danger as will not admit of
-delay. “The restraint on the power of the States over imports and
+delay. "The restraint on the power of the States over imports and
 exports is enforced by all the arguments which prove the necessity of
 submitting the regulation of trade to the federal councils. It is
 needless, therefore, to remark further on this head, than that the
@@ -9858,11 +9858,11 @@ The remaining particulars of this clause fall within reasonings which
 are either so obvious, or have been so fully developed, that they may
 be passed over without remark. The SIXTH and last class consists of the
 several powers and provisions by which efficacy is given to all the
-rest. 1. Of these the first is, the “power to make all laws which shall
+rest. 1. Of these the first is, the "power to make all laws which shall
 be necessary and proper for carrying into execution the foregoing
 powers, and all other powers vested by this Constitution in the
 government of the United States, or in any department or officer
-thereof. “Few parts of the Constitution have been assailed with more
+thereof. "Few parts of the Constitution have been assailed with more
 intemperance than this; yet on a fair investigation of it, no part can
 appear more completely invulnerable. Without the SUBSTANCE of this
 power, the whole Constitution would be a dead letter. Those who object
@@ -9874,14 +9874,14 @@ subject. They might have copied the second article of the existing
 Confederation, which would have prohibited the exercise of any power
 not EXPRESSLY delegated; they might have attempted a positive
 enumeration of the powers comprehended under the general terms
-“necessary and proper”; they might have attempted a negative
+"necessary and proper"; they might have attempted a negative
 enumeration of them, by specifying the powers excepted from the general
 definition; they might have been altogether silent on the subject,
 leaving these necessary and proper powers to construction and
 inference. Had the convention taken the first method of adopting the
 second article of Confederation, it is evident that the new Congress
 would be continually exposed, as their predecessors have been, to the
-alternative of construing the term “EXPRESSLY” with so much rigor, as
+alternative of construing the term "EXPRESSLY" with so much rigor, as
 to disarm the government of all real authority whatever, or with so
 much latitude as to destroy altogether the force of the restriction.
 
@@ -9949,12 +9949,12 @@ people, and to exert their local influence in effecting a change of
 federal representatives. There being no such intermediate body between
 the State legislatures and the people interested in watching the
 conduct of the former, violations of the State constitutions are more
-likely to remain unnoticed and unredressed. 2. “This Constitution and
+likely to remain unnoticed and unredressed. 2. "This Constitution and
 the laws of the United States which shall be made in pursuance thereof,
 and all treaties made, or which shall be made, under the authority of
 the United States, shall be the supreme law of the land, and the judges
 in every State shall be bound thereby, any thing in the constitution or
-laws of any State to the contrary notwithstanding. “The indiscreet zeal
+laws of any State to the contrary notwithstanding. "The indiscreet zeal
 of the adversaries to the Constitution has betrayed them into an attack
 on this part of it also, without which it would have been evidently and
 radically defective. To be fully sensible of this, we need only suppose
@@ -9980,10 +9980,10 @@ the first time, a system of government founded on an inversion of the
 fundamental principles of all government; it would have seen the
 authority of the whole society every where subordinate to the authority
 of the parts; it would have seen a monster, in which the head was under
-the direction of the members. 3. “The Senators and Representatives, and
+the direction of the members. 3. "The Senators and Representatives, and
 the members of the several State legislatures, and all executive and
 judicial officers, both of the United States and the several States,
-shall be bound by oath or affirmation to support this Constitution. “It
+shall be bound by oath or affirmation to support this Constitution. "It
 has been asked why it was thought necessary, that the State magistracy
 should be bound to support the federal Constitution, and unnecessary
 that a like oath should be imposed on the officers of the United
@@ -10559,10 +10559,10 @@ is invested with the supreme appellate jurisdiction in all other cases.
 The judges, again, are so far connected with the legislative department
 as often to attend and participate in its deliberations, though not
 admitted to a legislative vote. From these facts, by which Montesquieu
-was guided, it may clearly be inferred that, in saying “There can be no
+was guided, it may clearly be inferred that, in saying "There can be no
 liberty where the legislative and executive powers are united in the
-same person, or body of magistrates,” or, “if the power of judging be
-not separated from the legislative and executive powers,” he did not
+same person, or body of magistrates," or, "if the power of judging be
+not separated from the legislative and executive powers," he did not
 mean that these departments ought to have no PARTIAL AGENCY in, or no
 CONTROL over, the acts of each other. His meaning, as his own words
 import, and still more conclusively as illustrated by the example in
@@ -10589,16 +10589,16 @@ no executive prerogative, though one of its branches constitutes the
 supreme executive magistracy, and another, on the impeachment of a
 third, can try and condemn all the subordinate officers in the
 executive department. The reasons on which Montesquieu grounds his
-maxim are a further demonstration of his meaning. “When the legislative
-and executive powers are united in the same person or body,” says he,
-“there can be no liberty, because apprehensions may arise lest THE SAME
+maxim are a further demonstration of his meaning. "When the legislative
+and executive powers are united in the same person or body," says he,
+"there can be no liberty, because apprehensions may arise lest THE SAME
 monarch or senate should ENACT tyrannical laws to EXECUTE them in a
-tyrannical manner. “ Again: “Were the power of judging joined with the
+tyrannical manner. " Again: "Were the power of judging joined with the
 legislative, the life and liberty of the subject would be exposed to
 arbitrary control, for THE JUDGE would then be THE LEGISLATOR.
 
 Were it joined to the executive power, THE JUDGE might behave with all
-the violence of AN OPPRESSOR. “ Some of these reasons are more fully
+the violence of AN OPPRESSOR. " Some of these reasons are more fully
 explained in other passages; but briefly stated as they are here, they
 sufficiently establish the meaning which we have put on this celebrated
 maxim of this celebrated author.
@@ -10610,12 +10610,12 @@ instance in which the several departments of power have been kept
 absolutely separate and distinct. New Hampshire, whose constitution was
 the last formed, seems to have been fully aware of the impossibility
 and inexpediency of avoiding any mixture whatever of these departments,
-and has qualified the doctrine by declaring “that the legislative,
+and has qualified the doctrine by declaring "that the legislative,
 executive, and judiciary powers ought to be kept as separate from, and
 independent of, each other AS THE NATURE OF A FREE GOVERNMENT WILL
 ADMIT; OR AS IS CONSISTENT WITH THAT CHAIN OF CONNECTION THAT BINDS THE
 WHOLE FABRIC OF THE CONSTITUTION IN ONE INDISSOLUBLE BOND OF UNITY AND
-AMITY. “ Her constitution accordingly mixes these departments in
+AMITY. " Her constitution accordingly mixes these departments in
 several respects. The Senate, which is a branch of the legislative
 department, is also a judicial tribunal for the trial of impeachments.
 The President, who is the head of the executive department, is the
@@ -10627,12 +10627,12 @@ same department. Several of the officers of state are also appointed by
 the legislature. And the members of the judiciary department are
 appointed by the executive department. The constitution of
 Massachusetts has observed a sufficient though less pointed caution, in
-expressing this fundamental article of liberty. It declares “that the
+expressing this fundamental article of liberty. It declares "that the
 legislative department shall never exercise the executive and judicial
 powers, or either of them; the executive shall never exercise the
 legislative and judicial powers, or either of them; the judicial shall
 never exercise the legislative and executive powers, or either of them.
-“ This declaration corresponds precisely with the doctrine of
+" This declaration corresponds precisely with the doctrine of
 Montesquieu, as it has been explained, and is not in a single point
 violated by the plan of the convention. It goes no farther than to
 prohibit any one of the entire departments from exercising the powers
@@ -10702,12 +10702,12 @@ of government ought to be forever separate and distinct from each
 other. Her constitution, notwithstanding, makes the executive
 magistrate appointable by the legislative department; and the members
 of the judiciary by the executive department. The language of Virginia
-is still more pointed on this subject. Her constitution declares, “that
+is still more pointed on this subject. Her constitution declares, "that
 the legislative, executive, and judiciary departments shall be separate
 and distinct; so that neither exercise the powers properly belonging to
 the other; nor shall any person exercise the powers of more than one of
 them at the same time, except that the justices of county courts shall
-be eligible to either House of Assembly. “ Yet we find not only this
+be eligible to either House of Assembly. " Yet we find not only this
 express exception, with respect to the members of the inferior courts,
 but that the chief magistrate, with his executive council, are
 appointable by the legislature; that two members of the latter are
@@ -10715,9 +10715,9 @@ triennially displaced at the pleasure of the legislature; and that all
 the principal offices, both executive and judiciary, are filled by the
 same department. The executive prerogative of pardon, also, is in one
 case vested in the legislative department. The constitution of North
-Carolina, which declares “that the legislative, executive, and supreme
+Carolina, which declares "that the legislative, executive, and supreme
 judicial powers of government ought to be forever separate and distinct
-from each other,” refers, at the same time, to the legislative
+from each other," refers, at the same time, to the legislative
 department, the appointment not only of the executive chief, but all
 the principal officers within both that and the judiciary department.
 In South Carolina, the constitution makes the executive magistracy
@@ -10728,10 +10728,10 @@ judiciary department, including even justices of the peace and
 sheriffs; and the appointment of officers in the executive department,
 down to captains in the army and navy of the State.
 
-In the constitution of Georgia, where it is declared “that the
+In the constitution of Georgia, where it is declared "that the
 legislative, executive, and judiciary departments shall be separate and
 distinct, so that neither exercise the powers properly belonging to the
-other,” we find that the executive department is to be filled by
+other," we find that the executive department is to be filled by
 appointments of the legislature; and the executive prerogative of
 pardon to be finally exercised by the same authority. Even justices of
 the peace are to be appointed by the legislature. In citing these
@@ -10861,8 +10861,8 @@ is Mr. Jefferson, who, besides his other advantages for remarking the
 operation of the government, was himself the chief magistrate of it. In
 order to convey fully the ideas with which his experience had impressed
 him on this subject, it will be necessary to quote a passage of some
-length from his very interesting “Notes on the State of Virginia,” p.
-195. “All the powers of government, legislative, executive, and
+length from his very interesting "Notes on the State of Virginia," p.
+195. "All the powers of government, legislative, executive, and
 judiciary, result to the legislative body. The concentrating these in
 the same hands, is precisely the definition of despotic government. It
 will be no alleviation, that these powers will be exercised by a
@@ -10890,15 +10890,15 @@ proceedings into the form of acts of Assembly, which will render them
 obligatory on the other branches. They have accordingly, IN MANY
 instances, DECIDED RIGHTS which should have been left to JUDICIARY
 CONTROVERSY, and THE DIRECTION OF THE EXECUTIVE, DURING THE WHOLE TIME
-OF THEIR SESSION, IS BECOMING HABITUAL AND FAMILIAR. “The other State
+OF THEIR SESSION, IS BECOMING HABITUAL AND FAMILIAR. "The other State
 which I shall take for an example is Pennsylvania; and the other
 authority, the Council of Censors, which assembled in the years 1783
 and 1784. A part of the duty of this body, as marked out by the
-constitution, was “to inquire whether the constitution had been
+constitution, was "to inquire whether the constitution had been
 preserved inviolate in every part; and whether the legislative and
 executive branches of government had performed their duty as guardians
 of the people, or assumed to themselves, or exercised, other or greater
-powers than they are entitled to by the constitution. “ In the
+powers than they are entitled to by the constitution. " In the
 execution of this trust, the council were necessarily led to a
 comparison of both the legislative and executive proceedings, with the
 constitutional powers of these departments; and from the facts
@@ -10961,7 +10961,7 @@ HAMILTON OR MADISON
 
 To the People of the State of New York:
 
-The author of the “Notes on the State of Virginia,” quoted in the last
+The author of the "Notes on the State of Virginia," quoted in the last
 paper, has subjoined to that valuable work the draught of a
 constitution, which had been prepared in order to be laid before a
 convention, expected to be called in 1783, by the legislature, for the
@@ -10976,11 +10976,11 @@ One of the precautions which he proposes, and on which he appears
 ultimately to rely as a palladium to the weaker departments of power
 against the invasions of the stronger, is perhaps altogether his own,
 and as it immediately relates to the subject of our present inquiry,
-ought not to be overlooked. His proposition is, “that whenever any two
+ought not to be overlooked. His proposition is, "that whenever any two
 of the three branches of government shall concur in opinion, each by
 the voices of two thirds of their whole number, that a convention is
 necessary for altering the constitution, or CORRECTING BREACHES OF IT,
-a convention shall be called for the purpose. “As the people are the
+a convention shall be called for the purpose. "As the people are the
 only legitimate fountain of power, and it is from them that the
 constitutional charter, under which the several branches of government
 hold their power, is derived, it seems strictly consonant to the
@@ -11161,9 +11161,9 @@ would not easily be extirpated. The scheme of revising the
 constitution, in order to correct recent breaches of it, as well as for
 other purposes, has been actually tried in one of the States. One of
 the objects of the Council of Censors which met in Pennsylvania in 1783
-and 1784, was, as we have seen, to inquire, “whether the constitution
+and 1784, was, as we have seen, to inquire, "whether the constitution
 had been violated, and whether the legislative and executive
-departments had encroached upon each other. “ This important and novel
+departments had encroached upon each other. " This important and novel
 experiment in politics merits, in several points of view, very
 particular attention. In some of them it may, perhaps, as a single
 experiment, made under circumstances somewhat peculiar, be thought to
@@ -11515,7 +11515,7 @@ revolution took place in the government, the subject was still more
 seriously resumed, and it was declared to be among the fundamental
 rights of the people that parliaments ought to be held FREQUENTLY. By
 another statute, which passed a few years later in the same reign, the
-term “frequently,” which had alluded to the triennial period settled in
+term "frequently," which had alluded to the triennial period settled in
 the time of Charles II., is reduced to a precise meaning, it being
 expressly enacted that a new parliament shall be called within three
 years after the termination of the former. The last change, from three
@@ -11619,8 +11619,8 @@ HAMILTON OR MADISON
 
 To the People of the State of New York:
 
-I shall here, perhaps, be reminded of a current observation, “that
-where annual elections end, tyranny begins. “ If it be true, as has
+I shall here, perhaps, be reminded of a current observation, "that
+where annual elections end, tyranny begins. " If it be true, as has
 often been remarked, that sayings which become proverbial are generally
 founded in reason, it is not less true, that when once established,
 they are often applied to cases to which the reason of them does not
@@ -11767,7 +11767,7 @@ necessary connection between the several branches of public affairs,
 those particular branches will frequently deserve attention in the
 ordinary course of legislation, and will sometimes demand particular
 legislative sanction and co-operation. Some portion of this knowledge
-may, no doubt, be acquired in a man’s closet; but some of it also can
+may, no doubt, be acquired in a man's closet; but some of it also can
 only be derived from the public sources of information; and all of it
 will be acquired to best effect by a practical attention to the subject
 during the period of actual service in the legislature.
@@ -11856,8 +11856,8 @@ taxation which are founded on property, and to be excluded from
 representation which is regulated by a census of persons. This is the
 objection, as I understand it, stated in its full force. I shall be
 equally candid in stating the reasoning which may be offered on the
-opposite side. “We subscribe to the doctrine,” might one of our
-Southern brethren observe, “that representation relates more
+opposite side. "We subscribe to the doctrine," might one of our
+Southern brethren observe, "that representation relates more
 immediately to persons, and taxation more immediately to property, and
 we join in the application of this distinction to the case of our
 slaves. But we must deny the fact, that slaves are considered merely as
@@ -11885,7 +11885,7 @@ that the laws have transformed the negroes into subjects of property,
 that a place is disputed them in the computation of numbers; and it is
 admitted, that if the laws were to restore the rights which have been
 taken away, the negroes could no longer be refused an equal share of
-representation with the other inhabitants. “This question may be placed
+representation with the other inhabitants. "This question may be placed
 in another light. It is agreed on all sides, that numbers are the best
 scale of wealth and taxation, as they are the only proper scale of
 representation. Would the convention have been impartial or consistent,
@@ -11901,13 +11901,13 @@ barbarous policy of considering as property a part of their human
 brethren, should themselves contend, that the government to which all
 the States are to be parties, ought to consider this unfortunate race
 more completely in the unnatural light of property, than the very laws
-of which they complain? “It may be replied, perhaps, that slaves are
+of which they complain? "It may be replied, perhaps, that slaves are
 not included in the estimate of representatives in any of the States
 possessing them. They neither vote themselves nor increase the votes of
 their masters. Upon what principle, then, ought they to be taken into
 the federal estimate of representation? In rejecting them altogether,
 the Constitution would, in this respect, have followed the very laws
-which have been appealed to as the proper guide. “This objection is
+which have been appealed to as the proper guide. "This objection is
 repelled by a single observation. It is a fundamental principle of the
 proposed Constitution, that as the aggregate number of representatives
 allotted to the several States is to be determined by a federal rule,
@@ -11935,7 +11935,7 @@ as it is in truth, a peculiar one. Let the compromising expedient of
 the Constitution be mutually adopted, which regards them as
 inhabitants, but as debased by servitude below the equal level of free
 inhabitants, which regards the SLAVE as divested of two fifths of the
-MAN. “After all, may not another ground be taken on which this article
+MAN. "After all, may not another ground be taken on which this article
 of the Constitution will admit of a still more ready defense? We have
 hitherto proceeded on the idea that representation related to persons
 only, and not at all to property. But is it a just idea?
@@ -11950,7 +11950,7 @@ and is accordingly elected by that part of the society which is most
 interested in this object of government. In the federal Constitution,
 this policy does not prevail. The rights of property are committed into
 the same hands with the personal rights. Some attention ought,
-therefore, to be paid to property in the choice of those hands. “For
+therefore, to be paid to property in the choice of those hands. "For
 another reason, the votes allowed in the federal legislature to the
 people of each State, ought to bear some proportion to the comparative
 wealth of the States. States have not, like individuals, an influence
@@ -11987,7 +11987,7 @@ other districts, have each a precise equality of value and effect; or
 if there be any difference in the case, it proceeds from the difference
 in the personal character of the individual representative, rather than
 from any regard to the extent of the district from which he comes.
-“Such is the reasoning which an advocate for the Southern interests
+"Such is the reasoning which an advocate for the Southern interests
 might employ on this subject; and although it may appear to be a little
 strained in some points, yet, on the whole, I must confess that it
 fully reconciles me to the scale of representation which the convention
@@ -12368,7 +12368,7 @@ interests which will be confided to it.
 
 PUBLIUS.
 
- [1] Burgh’s _Political Disquisitions_.
+ [1] Burgh's _Political Disquisitions_.
 
 
 
@@ -12805,11 +12805,11 @@ To the People of the State of New York:
 The natural order of the subject leads us to consider, in this place,
 that provision of the Constitution which authorizes the national
 legislature to regulate, in the last resort, the election of its own
-members. It is in these words: “The TIMES, PLACES, and MANNER of
+members. It is in these words: "The TIMES, PLACES, and MANNER of
 holding elections for senators and representatives shall be prescribed
 in each State by the legislature thereof; but the Congress may, at any
 time, by law, make or alter SUCH REGULATIONS, except as to the PLACES
-of choosing senators.”[1] This provision has not only been declaimed
+of choosing senators."[1] This provision has not only been declaimed
 against by those who condemn the Constitution in the gross, but it has
 been censured by those who have objected with less latitude and greater
 moderation; and, in one instance it has been thought exceptionable by a
@@ -13042,8 +13042,8 @@ people, there would be little probability of a common interest to
 cement these different branches in a predilection for any particular
 class of electors.
 
-As to the Senate, it is impossible that any regulation of “time and
-manner,” which is all that is proposed to be submitted to the national
+As to the Senate, it is impossible that any regulation of "time and
+manner," which is all that is proposed to be submitted to the national
 government in respect to that body, can affect the spirit which will
 direct the choice of its members. The collective sense of the State
 legislatures can never be influenced by extraneous circumstances of
@@ -13067,7 +13067,7 @@ of property, or between the different degrees of property? Will it lean
 in favor of the landed interest, or the moneyed interest, or the
 mercantile interest, or the manufacturing interest? Or, to speak in the
 fashionable language of the adversaries to the Constitution, will it
-court the elevation of “the wealthy and the well-born,” to the
+court the elevation of "the wealthy and the well-born," to the
 exclusion and debasement of all the rest of the society?
 
 If this partiality is to be exerted in favor of those who are concerned
@@ -13137,7 +13137,7 @@ industry and property, because, as far as I understand the meaning of
 the objectors, they contemplate a discrimination of another kind. They
 appear to have in view, as the objects of the preference with which
 they endeavor to alarm us, those whom they designate by the description
-of “the wealthy and the well-born.” These, it seems, are to be exalted
+of "the wealthy and the well-born." These, it seems, are to be exalted
 to an odious pre-eminence over the rest of their fellow-citizens. At
 one time, however, their elevation is to be a necessary consequence of
 the smallness of the representative body; at another time it is to be
@@ -13146,7 +13146,7 @@ exercising their right of suffrage in the choice of that body.
 
 But upon what principle is the discrimination of the places of election
 to be made, in order to answer the purpose of the meditated preference?
-Are “the wealthy and the well-born,” as they are called, confined to
+Are "the wealthy and the well-born," as they are called, confined to
 particular spots in the several States? Have they, by some miraculous
 instinct or foresight, set apart in each of them a common place of
 residence? Are they only to be met with in the towns or cities? Or are
@@ -13421,9 +13421,9 @@ character, the government ought to be founded on a mixture of the
 principles of proportional and equal representation. But it is
 superfluous to try, by the standard of theory, a part of the
 Constitution which is allowed on all hands to be the result, not of
-theory, but “of a spirit of amity, and that mutual deference and
+theory, but "of a spirit of amity, and that mutual deference and
 concession which the peculiarity of our political situation rendered
-indispensable.” A common government, with powers equal to its objects,
+indispensable." A common government, with powers equal to its objects,
 is called for by the voice, and still more loudly by the political
 situation, of America. A government founded on principles more
 consonant to the wishes of the larger States, is not likely to be
@@ -13941,9 +13941,9 @@ on this principle, it is difficult to explain the motives of their
 conduct, who condemn the proposed Constitution in the aggregate, and
 treat with severity some of the most unexceptionable articles in it.
 
-The second section gives power to the President, “BY AND WITH THE
+The second section gives power to the President, "BY AND WITH THE
 ADVICE AND CONSENT OF THE SENATE, TO MAKE TREATIES, PROVIDED TWO THIRDS
-OF THE SENATORS PRESENT CONCUR.”
+OF THE SENATORS PRESENT CONCUR."
 
 The power of making treaties is an important one, especially as it
 relates to war, peace, and commerce; and it should not be delegated but
@@ -14679,24 +14679,24 @@ the shameful outrage he has offered to the dictates of truth and to the
 rules of fair dealing.
 
 The second clause of the second section of the second article empowers
-the President of the United States “to nominate, and by and with the
+the President of the United States "to nominate, and by and with the
 advice and consent of the Senate, to appoint ambassadors, other public
 ministers and consuls, judges of the Supreme Court, and all other
 OFFICERS of United States whose appointments are NOT in the
 Constitution OTHERWISE PROVIDED FOR, and WHICH SHALL BE ESTABLISHED BY
-LAW.” Immediately after this clause follows another in these words:
-“The President shall have power to fill up ?? VACANCIES that may happen
+LAW." Immediately after this clause follows another in these words:
+"The President shall have power to fill up ?? VACANCIES that may happen
 DURING THE RECESS OF THE SENATE, by granting commissions which shall
-EXPIRE AT THE END OF THEIR NEXT SESSION.” It is from this last
+EXPIRE AT THE END OF THEIR NEXT SESSION." It is from this last
 provision that the pretended power of the President to fill vacancies
 in the Senate has been deduced. A slight attention to the connection of
 the clauses, and to the obvious meaning of the terms, will satisfy us
 that the deduction is not even colorable.
 
 The first of these two clauses, it is clear, only provides a mode for
-appointing such officers, “whose appointments are NOT OTHERWISE
+appointing such officers, "whose appointments are NOT OTHERWISE
 PROVIDED FOR in the Constitution, and which SHALL BE ESTABLISHED BY
-LAW”; of course it cannot extend to the appointments of senators, whose
+LAW"; of course it cannot extend to the appointments of senators, whose
 appointments are OTHERWISE PROVIDED FOR in the Constitution,[2] and who
 are ESTABLISHED BY THE CONSTITUTION, and will not require a future
 establishment by law. This position will hardly be contested.
@@ -14715,15 +14715,15 @@ oblige this body to be continually in session for the appointment of
 officers and as vacancies might happen IN THEIR RECESS, which it might
 be necessary for the public service to fill without delay, the
 succeeding clause is evidently intended to authorize the President,
-SINGLY, to make temporary appointments “during the recess of the
+SINGLY, to make temporary appointments "during the recess of the
 Senate, by granting commissions which shall expire at the end of their
-next session.” Secondly. If this clause is to be considered as
+next session." Secondly. If this clause is to be considered as
 supplementary to the one which precedes, the VACANCIES of which it
-speaks must be construed to relate to the “officers” described in the
+speaks must be construed to relate to the "officers" described in the
 preceding one; and this, we have seen, excludes from its description
 the members of the Senate. Thirdly. The time within which the power is
-to operate, “during the recess of the Senate,” and the duration of the
-appointments, “to the end of the next session” of that body, conspire
+to operate, "during the recess of the Senate," and the duration of the
+appointments, "to the end of the next session" of that body, conspire
 to elucidate the sense of the provision, which, if it had been intended
 to comprehend senators, would naturally have referred the temporary
 power of filling vacancies to the recess of the State legislatures, who
@@ -14742,13 +14742,13 @@ to which it alludes can only be deemed to respect those officers in
 whose appointment that body has a concurrent agency with the President.
 But lastly, the first and second clauses of the third section of the
 first article, not only obviate all possibility of doubt, but destroy
-the pretext of misconception. The former provides, that “the Senate of
+the pretext of misconception. The former provides, that "the Senate of
 the United States shall be composed of two Senators from each State,
-chosen BY THE LEGISLATURE THEREOF for six years”; and the latter
-directs, that, “if vacancies in that body should happen by resignation
+chosen BY THE LEGISLATURE THEREOF for six years"; and the latter
+directs, that, "if vacancies in that body should happen by resignation
 or otherwise, DURING THE RECESS OF THE LEGISLATURE OF ANY STATE, the
 Executive THEREOF may make temporary appointments until the NEXT
-MEETING OF THE LEGISLATURE, which shall then fill such vacancies.” Here
+MEETING OF THE LEGISLATURE, which shall then fill such vacancies." Here
 is an express power given, in clear and unambiguous terms, to the State
 Executives, to fill casual vacancies in the Senate, by temporary
 appointments; which not only invalidates the supposition, that the
@@ -14903,8 +14903,8 @@ the share which the executive in every government must necessarily have
 in its good or ill administration. Though we cannot acquiesce in the
 political heresy of the poet who says:
 
-“For forms of government let fools contest
-That which is best administered is best,”
+"For forms of government let fools contest
+That which is best administered is best,"
 
 yet we may safely pronounce, that the true test of a good government is
 its aptitude and tendency to produce a good administration.
@@ -15003,7 +15003,7 @@ that reconsideration, it be approved by two thirds of both houses. The
 king of Great Britain, on his part, has an absolute negative upon the
 acts of the two houses of Parliament. The disuse of that power for a
 considerable time past does not affect the reality of its existence;
-and is to be ascribed wholly to the crown’s having found the means of
+and is to be ascribed wholly to the crown's having found the means of
 substituting influence to authority, or the art of gaining a majority
 in one or the other of the two houses, to the necessity of exerting a
 prerogative which could seldom be exerted without hazarding some degree
@@ -15018,7 +15018,7 @@ precisely the same with that of the governor of Massachusetts, whose
 constitution, as to this article, seems to have been the original from
 which the convention have copied.
 
-The President is to be the “commander-in-chief of the army and navy of
+The President is to be the "commander-in-chief of the army and navy of
 the United States, and of the militia of the several States, when
 called into the actual service of the United States. He is to have
 power to grant reprieves and pardons for offenses against the United
@@ -15028,7 +15028,7 @@ expedient; to convene, on extraordinary occasions, both houses of the
 legislature, or either of them, and, in case of disagreement between
 them WITH RESPECT TO THE TIME OF ADJOURNMENT, to adjourn them to such
 time as he shall think proper; to take care that the laws be faithfully
-executed; and to commission all officers of the United States.” In most
+executed; and to commission all officers of the United States." In most
 of these particulars, the power of the President will resemble equally
 that of the king of Great Britain and of the governor of New York. The
 most material points of difference are these: First. The President will
@@ -15079,8 +15079,8 @@ that exemption might himself be involved in the consequences of the
 measure, and might be incapacitated by his agency in it from affording
 the desired impunity? The better to judge of this matter, it will be
 necessary to recollect, that, by the proposed Constitution, the offense
-of treason is limited “to levying war upon the United States, and
-adhering to their enemies, giving them aid and comfort”; and that by
+of treason is limited "to levying war upon the United States, and
+adhering to their enemies, giving them aid and comfort"; and that by
 the laws of New York it is confined within similar bounds. Fourthly.
 The President can only adjourn the national legislature in the single
 case of disagreement about the time of adjournment. The British monarch
@@ -15211,17 +15211,17 @@ PUBLIUS.
  has asserted that the king of Great Britain owes his prerogative as
  commander-in-chief to an annual mutiny bill. The truth is, on the
  contrary, that his prerogative, in this respect, is immemorial, and
- was only disputed, “contrary to all reason and precedent,” as
+ was only disputed, "contrary to all reason and precedent," as
  Blackstone vol. i., page 262, expresses it, by the Long Parliament of
  Charles I. but by the statute the 13th of Charles II., chap. 6, it was
  declared to be in the king alone, for that the sole supreme government
- and command of the militia within his Majesty’s realms and dominions,
+ and command of the militia within his Majesty's realms and dominions,
  and of all forces by sea and land, and of all forts and places of
  strength, EVER WAS AND IS the undoubted right of his Majesty and his
  royal predecessors, kings and queens of England, and that both or
  either house of Parliament cannot nor ought to pretend to the same.
 
- [2] _Vide_ Blackstone’s _Commentaries_, vol i., p. 257.
+ [2] _Vide_ Blackstone's _Commentaries_, vol i., p. 257.
 
  [3] Candor, however, demands an acknowledgment that I do not think the
  claim of the governor to a right of nomination well founded. Yet it is
@@ -15439,9 +15439,9 @@ though we may clearly see upon the whole that there has been
 mismanagement, yet it may be impracticable to pronounce to whose
 account the evil which may have been incurred is truly chargeable.
 
-“I was overruled by my council. The council were so divided in their
+"I was overruled by my council. The council were so divided in their
 opinions that it was impossible to obtain any better resolution on the
-point.” These and similar pretexts are constantly at hand, whether true
+point." These and similar pretexts are constantly at hand, whether true
 or false. And who is there that will either take the trouble or incur
 the odium, of a strict scrunity into the secret springs of the
 transaction? Should there be found a citizen zealous enough to
@@ -15504,9 +15504,9 @@ be applicable to the case, I should contend that the advantage on that
 side would not counterbalance the numerous disadvantages on the
 opposite side. But I do not think the rule at all applicable to the
 executive power. I clearly concur in opinion, in this particular, with
-a writer whom the celebrated Junius pronounces to be “deep, solid, and
-ingenious,” that “the executive power is more easily confined when it
-is ONE”;[2] that it is far more safe there should be a single object
+a writer whom the celebrated Junius pronounces to be "deep, solid, and
+ingenious," that "the executive power is more easily confined when it
+is ONE";[2] that it is far more safe there should be a single object
 for the jealousy and watchfulness of the people; and, in a word, that
 all multiplication of the Executive is rather dangerous than friendly
 to liberty.
@@ -15767,9 +15767,9 @@ though we may clearly see upon the whole that there has been
 mismanagement, yet it may be impracticable to pronounce to whose
 account the evil which may have been incurred is truly chargeable.
 
-“I was overruled by my council. The council were so divided in their
+"I was overruled by my council. The council were so divided in their
 opinions that it was impossible to obtain any better resolution on the
-point.” These and similar pretexts are constantly at hand, whether true
+point." These and similar pretexts are constantly at hand, whether true
 or false. And who is there that will either take the trouble or incur
 the odium, of a strict scrunity into the secret springs of the
 transaction? Should there be found a citizen zealous enough to
@@ -15832,9 +15832,9 @@ be applicable to the case, I should contend that the advantage on that
 side would not counterbalance the numerous disadvantages on the
 opposite side. But I do not think the rule at all applicable to the
 executive power. I clearly concur in opinion, in this particular, with
-a writer whom the celebrated Junius pronounces to be “deep, solid, and
-ingenious,” that “the executive power is more easily confined when it
-is ONE”;[2] that it is far more safe there should be a single object
+a writer whom the celebrated Junius pronounces to be "deep, solid, and
+ingenious," that "the executive power is more easily confined when it
+is ONE";[2] that it is far more safe there should be a single object
 for the jealousy and watchfulness of the people; and, in a word, that
 all multiplication of the Executive is rather dangerous than friendly
 to liberty.
@@ -16050,7 +16050,7 @@ the royalty and the aristocracy, and to overturn all the ancient
 establishments, as well in the Church as State; if they have been able,
 on a recent occasion, to make the monarch tremble at the prospect of an
 innovation[1] attempted by them, what would be to be feared from an
-elective magistrate of four years’ duration, with the confined
+elective magistrate of four years' duration, with the confined
 authorities of a President of the United States? What, but that he
 might be unequal to the task which the Constitution assigns him? I
 shall only add, that if his duration be such as to leave a doubt of his
@@ -16059,7 +16059,7 @@ encroachments.
 
 PUBLIUS.
 
- [1] This was the case with respect to Mr. Fox’s India bill, which was
+ [1] This was the case with respect to Mr. Fox's India bill, which was
  carried in the House of Commons, and rejected in the House of Lords,
  to the entire satisfaction, as it is said, of the people.
 
@@ -16173,7 +16173,7 @@ annihilation, his avarice would be likely to get the victory over his
 caution, his vanity, or his ambition.
 
 An ambitious man, too, when he found himself seated on the summit of
-his country’s honors, when he looked forward to the time at which he
+his country's honors, when he looked forward to the time at which he
 must descend from the exalted eminence for ever, and reflected that no
 exertion of merit on his part could save him from the unwelcome
 reverse; such a man, in such a situation, would be much more violently
@@ -16307,7 +16307,7 @@ expressions, taken in all the latitude of the terms, would no doubt
 convey more than is intended. There are men who could neither be
 distressed nor won into a sacrifice of their duty; but this stern
 virtue is the growth of few soils; and in the main it will be found
-that a power over a man’s support is a power over his will. If it were
+that a power over a man's support is a power over his will. If it were
 necessary to confirm so plain a truth by facts, examples would not be
 wanting, even in this country, of the intimidation or seduction of the
 Executive by the terrors or allurements of the pecuniary arrangements
@@ -16315,11 +16315,11 @@ of the legislative body.
 
 It is not easy, therefore, to commend too highly the judicious
 attention which has been paid to this subject in the proposed
-Constitution. It is there provided that “The President of the United
+Constitution. It is there provided that "The President of the United
 States shall, at stated times, receive for his services a compensation
 WHICH SHALL NEITHER BE INCREASED NOR DIMINISHED DURING THE PERIOD FOR
 WHICH HE SHALL HAVE BEEN ELECTED; and he SHALL NOT RECEIVE WITHIN THAT
-PERIOD ANY OTHER EMOLUMENT from the United States, or any of them.” It
+PERIOD ANY OTHER EMOLUMENT from the United States, or any of them." It
 is impossible to imagine any provision which would have been more
 eligible than this. The legislature, on the appointment of a President,
 is once for all to declare what shall be the compensation for his
@@ -16535,9 +16535,9 @@ HAMILTON
 
 To the People of the State of New York:
 
-The President of the United States is to be “commander-in-chief of the
+The President of the United States is to be "commander-in-chief of the
 army and navy of the United States, and of the militia of the several
-States WHEN CALLED INTO THE ACTUAL SERVICE of the United States.” The
+States WHEN CALLED INTO THE ACTUAL SERVICE of the United States." The
 propriety of this provision is so evident in itself, and it is, at the
 same time, so consonant to the precedents of the State constitutions in
 general, that little need be said to explain or enforce it. Even those
@@ -16550,14 +16550,14 @@ war implies the direction of the common strength; and the power of
 directing and employing the common strength, forms a usual and
 essential part in the definition of the executive authority.
 
-“The President may require the opinion, in writing, of the principal
+"The President may require the opinion, in writing, of the principal
 officer in each of the executive departments, upon any subject relating
-to the duties of their respective officers.” This I consider as a mere
+to the duties of their respective officers." This I consider as a mere
 redundancy in the plan, as the right for which it provides would result
 of itself from the office.
 
-He is also to be authorized to grant “reprieves and pardons for
-offenses against the United States, EXCEPT IN CASES OF IMPEACHMENT.”
+He is also to be authorized to grant "reprieves and pardons for
+offenses against the United States, EXCEPT IN CASES OF IMPEACHMENT."
 Humanity and good policy conspire to dictate, that the benign
 prerogative of pardoning should be as little as possible fettered or
 embarrassed. The criminal code of every country partakes so much of
@@ -16641,9 +16641,9 @@ HAMILTON
 
 To the People of the State of New York:
 
-The President is to have power, “by and with the advice and consent of
+The President is to have power, "by and with the advice and consent of
 the Senate, to make treaties, provided two thirds of the senators
-present concur.”
+present concur."
 
 Though this provision has been assailed, on different grounds, with no
 small degree of vehemence, I scruple not to declare my firm persuasion,
@@ -16699,7 +16699,7 @@ or a portion of the legislative body in the office of making them.
 However proper or safe it may be in governments where the executive
 magistrate is an hereditary monarch, to commit to him the entire power
 of making treaties, it would be utterly unsafe and improper to intrust
-that power to an elective magistrate of four years’ duration. It has
+that power to an elective magistrate of four years' duration. It has
 been remarked, upon another occasion, and the remark is unquestionably
 just, that an hereditary monarch, though often the oppressor of his
 people, has personally too much stake in the government to be in any
@@ -16835,7 +16835,7 @@ HAMILTON
 
 To the People of the State of New York:
 
-The President is “to NOMINATE, and, by and with the advice and consent
+The President is "to NOMINATE, and, by and with the advice and consent
 of the Senate, to appoint ambassadors, other public ministers and
 consuls, judges of the Supreme Court, and all other officers of the
 United States whose appointments are not otherwise provided for in the
@@ -16844,11 +16844,11 @@ inferior officers as they think proper, in the President alone, or in
 the courts of law, or in the heads of departments. The President shall
 have power to fill up ALL VACANCIES which may happen DURING THE RECESS
 OF THE SENATE, by granting commissions which shall EXPIRE at the end of
-their next session.”
+their next session."
 
-It has been observed in a former paper, that “the true test of a good
+It has been observed in a former paper, that "the true test of a good
 government is its aptitude and tendency to produce a good
-administration.” If the justness of this observation be admitted, the
+administration." If the justness of this observation be admitted, the
 mode of appointing the officers of the United States contained in the
 foregoing clauses, must, when examined, be allowed to be entitled to
 particular commendation. It is not easy to conceive a plan better
@@ -16907,8 +16907,8 @@ merit of the candidate will be too often out of sight. In the first,
 the qualifications best adapted to uniting the suffrages of the party,
 will be more considered than those which fit the person for the
 station. In the last, the coalition will commonly turn upon some
-interested equivalent: “Give us the man we wish for this office, and
-you shall have the one you wish for that.” This will be the usual
+interested equivalent: "Give us the man we wish for this office, and
+you shall have the one you wish for that." This will be the usual
 condition of the bargain. And it will rarely happen that the
 advancement of the public service will be the primary object either of
 party victories or of party negotiations.
@@ -16939,8 +16939,8 @@ merit of the candidate will be too often out of sight. In the first,
 the qualifications best adapted to uniting the suffrages of the party,
 will be more considered than those which fit the person for the
 station. In the last, the coalition will commonly turn upon some
-interested equivalent: “Give us the man we wish for this office, and
-you shall have the one you wish for that.” This will be the usual
+interested equivalent: "Give us the man we wish for this office, and
+you shall have the one you wish for that." This will be the usual
 condition of the bargain. And it will rarely happen that the
 advancement of the public service will be the primary object either of
 party victories or of party negotiations.
@@ -17037,13 +17037,13 @@ its co-operation, in the business of appointments, will be a
 considerable and salutary restraint upon the conduct of that
 magistrate. Nor is the integrity of the Senate the only reliance. The
 Constitution has provided some important guards against the danger of
-executive influence upon the legislative body: it declares that “No
+executive influence upon the legislative body: it declares that "No
 senator or representative shall during the time FOR WHICH HE WAS
 ELECTED, be appointed to any civil office under the United States,
 which shall have been created, or the emoluments whereof shall have
 been increased, during such time; and no person, holding any office
 under the United States, shall be a member of either house during his
-continuance in office.”
+continuance in office."
 
 PUBLIUS.
 
@@ -17096,8 +17096,8 @@ appointment would enable him much more effectually to establish a
 dangerous empire over that body, than a mere power of nomination
 subject to their control.
 
-Let us take a view of the converse of the proposition: “the Senate
-would influence the Executive.” As I have had occasion to remark in
+Let us take a view of the converse of the proposition: "the Senate
+would influence the Executive." As I have had occasion to remark in
 several other instances, the indistinctness of the objection forbids a
 precise answer. In what manner is this influence to be exerted? In
 relation to what objects? The power of influencing a person, in the
@@ -17256,7 +17256,7 @@ THE FEDERALIST.  No. LXXVIII.
 
 The Judiciary Department
 
-From McLEAN’S Edition, New York.
+From McLEAN'S Edition, New York.
 
 HAMILTON
 
@@ -17327,8 +17327,8 @@ equally proves, that though individual oppression may now and then
 proceed from the courts of justice, the general liberty of the people
 can never be endangered from that quarter; I mean so long as the
 judiciary remains truly distinct from both the legislature and the
-Executive. For I agree, that “there is no liberty, if the power of
-judging be not separated from the legislative and executive powers.”[2]
+Executive. For I agree, that "there is no liberty, if the power of
+judging be not separated from the legislative and executive powers."[2]
 And it proves, in the last place, that as liberty can have nothing to
 fear from the judiciary alone, but would have every thing to fear from
 its union with either of the other departments; that as all the effects
@@ -17559,14 +17559,14 @@ affords an illustrious comment on the excellence of the institution.
 
 PUBLIUS.
 
- [1] The celebrated Montesquieu, speaking of them, says: “Of the three
- powers above mentioned, the judiciary is next to nothing.” _Spirit of
+ [1] The celebrated Montesquieu, speaking of them, says: "Of the three
+ powers above mentioned, the judiciary is next to nothing." _Spirit of
  Laws_. vol. i., page 186.
 
  [2] _Idem_, page 181.
 
  [3] _Vide Protest of the Minority of the Convention of Pennsylvania_,
- Martin’s Speech, etc.
+ Martin's Speech, etc.
 
 
 
@@ -17575,7 +17575,7 @@ THE FEDERALIST.  No. LXXIX.
 
 The Judiciary Continued
 
-From MCLEAN’s Edition, New York.
+From MCLEAN's Edition, New York.
 
 HAMILTON
 
@@ -17585,7 +17585,7 @@ To the People of the State of New York:
 Next to permanency in office, nothing can contribute more to the
 independence of the judges than a fixed provision for their support.
 The remark made in relation to the President is equally applicable
-here. In the general course of human nature, A POWER OVER A MAN’s
+here. In the general course of human nature, A POWER OVER A MAN's
 SUBSISTENCE AMOUNTS TO A POWER OVER HIS WILL. And we can never hope to
 see realized in practice, the complete separation of the judicial from
 the legislative power, in any system which leaves the former dependent
@@ -17598,9 +17598,9 @@ experiment has in some instances shown that such expressions are not
 sufficiently definite to preclude legislative evasions. Something still
 more positive and unequivocal has been evinced to be requisite. The
 plan of the convention accordingly has provided that the judges of the
-United States “shall at STATED TIMES receive for their services a
+United States "shall at STATED TIMES receive for their services a
 compensation which shall not be DIMINISHED during their continuance in
-office.”
+office."
 
 This, all circumstances considered, is the most eligible provision that
 could have been devised. It will readily be understood that the
@@ -17691,7 +17691,7 @@ THE FEDERALIST.  No. LXXX.
 
 The Powers of the Judiciary
 
-From McLEAN’s Edition, New York.
+From McLEAN's Edition, New York.
 
 HAMILTON
 
@@ -17803,9 +17803,9 @@ nor specifically provided against. Whatever practices may have a
 tendency to disturb the harmony between the States, are proper objects
 of federal superintendence and control.
 
-It may be esteemed the basis of the Union, that “the citizens of each
+It may be esteemed the basis of the Union, that "the citizens of each
 State shall be entitled to all the privileges and immunities of
-citizens of the several States.” And if it be a just principle that
+citizens of the several States." And if it be a just principle that
 every government OUGHT TO POSSESS THE MEANS OF EXECUTING ITS OWN
 PROVISIONS BY ITS OWN AUTHORITY, it will follow, that in order to the
 inviolable maintenance of that equality of privileges and immunities to
@@ -17848,7 +17848,7 @@ Having thus laid down and discussed the principles which ought to
 regulate the constitution of the federal judiciary, we will proceed to
 test, by these principles, the particular powers of which, according to
 the plan of the convention, it is to be composed. It is to comprehend
-“all cases in law and equity arising under the Constitution, the laws
+"all cases in law and equity arising under the Constitution, the laws
 of the United States, and treaties made, or which shall be made, under
 their authority; to all cases affecting ambassadors, other public
 ministers, and consuls; to all cases of admiralty and maritime
@@ -17857,7 +17857,7 @@ party; to controversies between two or more States; between a State and
 citizens of another State; between citizens of different States;
 between citizens of the same State claiming lands and grants of
 different States; and between a State or the citizens thereof and
-foreign states, citizens, and subjects.” This constitutes the entire
+foreign states, citizens, and subjects." This constitutes the entire
 mass of the judicial authority of the Union. Let us now review it in
 detail. It is, then, to extend:
 
@@ -17865,8 +17865,8 @@ First. To all cases in law and equity, ARISING UNDER THE CONSTITUTION
 and THE LAWS OF THE UNITED STATES. This corresponds with the two first
 classes of causes, which have been enumerated, as proper for the
 jurisdiction of the United States. It has been asked, what is meant by
-“cases arising under the Constitution,” in contradiction from those
-“arising under the laws of the United States”? The difference has been
+"cases arising under the Constitution," in contradiction from those
+"arising under the laws of the United States"? The difference has been
 already explained. All the restrictions upon the authority of the State
 legislatures furnish examples of it. They are not, for instance, to
 emit paper money; but the interdiction results from the Constitution,
@@ -17876,7 +17876,7 @@ it would be cases arising under the Constitution and not the laws of
 the United States, in the ordinary signification of the terms. This may
 serve as a sample of the whole.
 
-It has also been asked, what need of the word “equity What equitable
+It has also been asked, what need of the word "equity What equitable
 causes can grow out of the Constitution and laws of the United States?
 There is hardly a subject of litigation between individuals, which may
 not involve those ingredients of FRAUD, ACCIDENT, TRUST, or HARDSHIP,
@@ -17896,7 +17896,7 @@ different States, may afford another example of the necessity of an
 equitable jurisdiction in the federal courts. This reasoning may not be
 so palpable in those States where the formal and technical distinction
 between LAW and EQUITY is not maintained, as in this State, where it is
-exemplified by every day’s practice.
+exemplified by every day's practice.
 
 The judiciary authority of the Union is to extend:
 
@@ -17953,7 +17953,7 @@ THE FEDERALIST.  No. LXXXI.
 
 The Judiciary Continued, and the Distribution of the Judicial Authority
 
-From McLEAN’s Edition, New York.
+From McLEAN's Edition, New York.
 
 HAMILTON
 
@@ -17961,10 +17961,10 @@ HAMILTON
 To the People of the State of New York:
 
 Let us now return to the partition of the judiciary authority between
-different courts, and their relations to each other, “The judicial
-power of the United States is” (by the plan of the convention) “to be
+different courts, and their relations to each other, "The judicial
+power of the United States is" (by the plan of the convention) "to be
 vested in one Supreme Court, and in such inferior courts as the
-Congress may, from time to time, ordain and establish.”[1]
+Congress may, from time to time, ordain and establish."[1]
 
 That there ought to be one court of supreme and final jurisdiction, is
 a proposition which is not likely to be contested. The reasons for it
@@ -17979,7 +17979,7 @@ propriety of vesting the ultimate decision of all causes, in the whole
 or in a part of the legislative body.
 
 The arguments, or rather suggestions, upon which this charge is
-founded, are to this effect: “The authority of the proposed Supreme
+founded, are to this effect: "The authority of the proposed Supreme
 Court of the United States, which is to be a separate and independent
 body, will be superior to that of the legislature. The power of
 construing the laws according to the SPIRIT of the Constitution, will
@@ -17993,7 +17993,7 @@ in the State constitutions in general. The Parliament of Great Britain,
 and the legislatures of the several States, can at any time rectify, by
 law, the exceptionable decisions of their respective courts. But the
 errors and usurpations of the Supreme Court of the United States will
-be uncontrollable and remediless.” This, upon examination, will be
+be uncontrollable and remediless." This, upon examination, will be
 found to be made up altogether of false reasoning upon misconceived
 fact.
 
@@ -18122,7 +18122,7 @@ question may still be regarded as a necessary part of the plan, if it
 were only to empower the national legislature to commit to them the
 cognizance of causes arising out of the national Constitution. To
 confer the power of determining such causes upon the existing courts of
-the several States, would perhaps be as much “to constitute tribunals,”
+the several States, would perhaps be as much "to constitute tribunals,"
 as to create new courts with the like power. But ought not a more
 direct and explicit provision to have been made in favor of the State
 courts? There are, in my opinion, substantial reasons against such a
@@ -18161,9 +18161,9 @@ These reasons seem sufficient to satisfy a candid mind, that the want
 of such a power would have been a great defect in the plan. Let us now
 examine in what manner the judicial authority is to be distributed
 between the supreme and the inferior courts of the Union. The Supreme
-Court is to be invested with original jurisdiction, only “in cases
+Court is to be invested with original jurisdiction, only "in cases
 affecting ambassadors, other public ministers, and consuls, and those
-in which A STATE shall be a party.” Public ministers of every class are
+in which A STATE shall be a party." Public ministers of every class are
 the immediate representatives of their sovereigns. All questions in
 which they are concerned are so directly connected with the public
 peace, that, as well for the preservation of this, as out of respect to
@@ -18213,8 +18213,8 @@ original jurisdiction of the Supreme Court would be confined to two
 classes of causes, and those of a nature rarely to occur. In all other
 cases of federal cognizance, the original jurisdiction would appertain
 to the inferior tribunals; and the Supreme Court would have nothing
-more than an appellate jurisdiction, “with such EXCEPTIONS and under
-such REGULATIONS as the Congress shall make.”
+more than an appellate jurisdiction, "with such EXCEPTIONS and under
+such REGULATIONS as the Congress shall make."
 
 The propriety of this appellate jurisdiction has been scarcely called
 in question in regard to matters of law; but the clamors have been loud
@@ -18223,13 +18223,13 @@ this State, deriving their notions from the language and forms which
 obtain in our courts, have been induced to consider it as an implied
 supersedure of the trial by jury, in favor of the civil-law mode of
 trial, which prevails in our courts of admiralty, probate, and
-chancery. A technical sense has been affixed to the term “appellate,”
+chancery. A technical sense has been affixed to the term "appellate,"
 which, in our law parlance, is commonly used in reference to appeals in
 the course of the civil law. But if I am not misinformed, the same
 meaning would not be given to it in any part of New England. There an
 appeal from one jury to another, is familiar both in language and
 practice, and is even a matter of course, until there have been two
-verdicts on one side. The word “appellate,” therefore, will not be
+verdicts on one side. The word "appellate," therefore, will not be
 understood in the same sense in New England as in New York, which shows
 the impropriety of a technical interpretation derived from the
 jurisprudence of any particular State. The expression, taken in the
@@ -18257,7 +18257,7 @@ State ascertain disputed facts by a jury, yet they unquestionably have
 jurisdiction of both fact and law; and accordingly when the former is
 agreed in the pleadings, they have no recourse to a jury, but proceed
 at once to judgment. I contend, therefore, on this ground, that the
-expressions, “appellate jurisdiction, both as to law and fact,” do not
+expressions, "appellate jurisdiction, both as to law and fact," do not
 necessarily imply a re-examination in the Supreme Court of facts
 decided by juries in the inferior courts.
 
@@ -18317,7 +18317,7 @@ PUBLIUS.
  [2] This power has been absurdly represented as intended to abolish
  all the county courts in the several States, which are commonly called
  inferior courts. But the expressions of the Constitution are, to
- constitute “tribunals INFERIOR TO THE SUPREME COURT”; and the evident
+ constitute "tribunals INFERIOR TO THE SUPREME COURT"; and the evident
  design of the provision is to enable the institution of local courts,
  subordinate to the Supreme, either in States or larger districts. It
  is ridiculous to imagine that county courts were in contemplation.
@@ -18336,7 +18336,7 @@ THE FEDERALIST.  No. LXXXII.
 
 The Judiciary Continued
 
-From McLEAN’s Edition, New York.
+From McLEAN's Edition, New York.
 
 HAMILTON
 
@@ -18347,7 +18347,7 @@ The erection of a new government, whatever care or wisdom may
 distinguish the work, cannot fail to originate questions of intricacy
 and nicety; and these may, in a particular manner, be expected to flow
 from the establishment of a constitution founded upon the total or
-partial incorporation of a number of distinct sovereignties. ’T is time
+partial incorporation of a number of distinct sovereignties. 'T is time
 only that can mature and perfect so compound a system, can liquidate
 the meaning of all the parts, and can adjust them to each other in a
 harmonious and consistent WHOLE.
@@ -18379,9 +18379,9 @@ of the enumerated modes.
 
 The only thing in the proposed Constitution, which wears the appearance
 of confining the causes of federal cognizance to the federal courts, is
-contained in this passage: “The JUDICIAL POWER of the United States
+contained in this passage: "The JUDICIAL POWER of the United States
 SHALL BE VESTED in one Supreme Court, and in SUCH inferior courts as
-the Congress shall from time to time ordain and establish.” This might
+the Congress shall from time to time ordain and establish." This might
 either be construed to signify, that the supreme and subordinate courts
 of the Union should alone have the power of deciding those causes to
 which their authority is to extend; or simply to denote, that the
@@ -18462,16 +18462,16 @@ But could an appeal be made to lie from the State courts to the
 subordinate federal judicatories? This is another of the questions
 which have been raised, and of greater difficulty than the former. The
 following considerations countenance the affirmative. The plan of the
-convention, in the first place, authorizes the national legislature “to
-constitute tribunals inferior to the Supreme Court.”[2] It declares, in
-the next place, that “the JUDICIAL POWER of the United States SHALL BE
+convention, in the first place, authorizes the national legislature "to
+constitute tribunals inferior to the Supreme Court."[2] It declares, in
+the next place, that "the JUDICIAL POWER of the United States SHALL BE
 VESTED in one Supreme Court, and in such inferior courts as Congress
-shall ordain and establish”; and it then proceeds to enumerate the
+shall ordain and establish"; and it then proceeds to enumerate the
 cases to which this judicial power shall extend. It afterwards divides
 the jurisdiction of the Supreme Court into original and appellate, but
 gives no definition of that of the subordinate courts. The only
-outlines described for them, are that they shall be “inferior to the
-Supreme Court,” and that they shall not exceed the specified limits of
+outlines described for them, are that they shall be "inferior to the
+Supreme Court," and that they shall not exceed the specified limits of
 the federal judiciary. Whether their authority shall be original or
 appellate, or both, is not declared. All this seems to be left to the
 discretion of the legislature. And this being the case, I perceive at
@@ -18498,7 +18498,7 @@ THE FEDERALIST.  No. LXXXIII.
 
 The Judiciary Continued in Relation to Trial by Jury
 
-From MCLEAN’s Edition, New York.
+From MCLEAN's Edition, New York.
 
 HAMILTON
 
@@ -18531,9 +18531,9 @@ support it by certain LEGAL MAXIMS of interpretation, which they have
 perverted from their true meaning, it may not be wholly useless to
 explore the ground they have taken.
 
-The maxims on which they rely are of this nature: “A specification of
-particulars is an exclusion of generals”; or, “The expression of one
-thing is the exclusion of another.” Hence, say they, as the
+The maxims on which they rely are of this nature: "A specification of
+particulars is an exclusion of generals"; or, "The expression of one
+thing is the exclusion of another." Hence, say they, as the
 Constitution has established the trial by jury in criminal cases, and
 is silent in respect to civil, this silence is an implied prohibition
 of trial by jury in regard to the latter.
@@ -18803,7 +18803,7 @@ matter, as has been done, to legislative regulation.
 The propositions which have been made for supplying the omission have
 rather served to illustrate than to obviate the difficulty of the
 thing. The minority of Pennsylvania have proposed this mode of
-expression for the purpose “Trial by jury shall be as heretofore” and
+expression for the purpose "Trial by jury shall be as heretofore" and
 this I maintain would be senseless and nugatory. The United States, in
 their united or collective capacity, are the OBJECT to which all
 general provisions in the Constitution must necessarily be construed to
@@ -18899,9 +18899,9 @@ according to what may be conjectured to have been the attempt of the
 Pennsylvania minority. Let us now examine how far the proposition of
 Massachusetts is calculated to remedy the supposed defect.
 
-It is in this form: “In civil actions between citizens of different
+It is in this form: "In civil actions between citizens of different
 States, every issue of fact, arising in ACTIONS AT COMMON LAW, may be
-tried by a jury if the parties, or either of them request it.”
+tried by a jury if the parties, or either of them request it."
 
 This, at best, is a proposition confined to one description of causes;
 and the inference is fair, either that the Massachusetts convention
@@ -19064,7 +19064,7 @@ THE FEDERALIST.  No. LXXXIV.
 Certain General and Miscellaneous Objections to the Constitution
 Considered and Answered
 
-From McLEAN’s Edition, New York.
+From McLEAN's Edition, New York.
 
 HAMILTON
 
@@ -19100,32 +19100,32 @@ contains, as well as the constitution of this State, a number of such
 provisions.
 
 Independent of those which relate to the structure of the government,
-we find the following: Article 1, section 3, clause 7 “Judgment in
+we find the following: Article 1, section 3, clause 7 "Judgment in
 cases of impeachment shall not extend further than to removal from
 office, and disqualification to hold and enjoy any office of honor,
 trust, or profit under the United States; but the party convicted
 shall, nevertheless, be liable and subject to indictment, trial,
-judgment, and punishment according to law.” Section 9, of the same
-article, clause 2 “The privilege of the writ of habeas corpus shall not
+judgment, and punishment according to law." Section 9, of the same
+article, clause 2 "The privilege of the writ of habeas corpus shall not
 be suspended, unless when in cases of rebellion or invasion the public
-safety may require it.” Clause 3 “No bill of attainder or ex-post-facto
-law shall be passed.” Clause 7 “No title of nobility shall be granted
+safety may require it." Clause 3 "No bill of attainder or ex-post-facto
+law shall be passed." Clause 7 "No title of nobility shall be granted
 by the United States; and no person holding any office of profit or
 trust under them, shall, without the consent of the Congress, accept of
 any present, emolument, office, or title of any kind whatever, from any
-king, prince, or foreign state.” Article 3, section 2, clause 3 “The
+king, prince, or foreign state." Article 3, section 2, clause 3 "The
 trial of all crimes, except in cases of impeachment, shall be by jury;
 and such trial shall be held in the State where the said crimes shall
 have been committed; but when not committed within any State, the trial
 shall be at such place or places as the Congress may by law have
-directed.” Section 3, of the same article “Treason against the United
+directed." Section 3, of the same article "Treason against the United
 States shall consist only in levying war against them, or in adhering
 to their enemies, giving them aid and comfort. No person shall be
 convicted of treason, unless on the testimony of two witnesses to the
-same overt act, or on confession in open court.” And clause 3, of the
-same section “The Congress shall have power to declare the punishment
+same overt act, or on confession in open court." And clause 3, of the
+same section "The Congress shall have power to declare the punishment
 of treason; but no attainder of treason shall work corruption of blood,
-or forfeiture, except during the life of the person attainted.”
+or forfeiture, except during the life of the person attainted."
 
 It may well be a question, whether these are not, upon the whole, of
 equal importance with any which are to be found in the constitution of
@@ -19139,16 +19139,16 @@ were done, were breaches of no law, and the practice of arbitrary
 imprisonments, have been, in all ages, the favorite and most formidable
 instruments of tyranny. The observations of the judicious
 Blackstone,[1] in reference to the latter, are well worthy of recital:
-“To bereave a man of life, Usays he,e or by violence to confiscate his
+"To bereave a man of life, Usays he,e or by violence to confiscate his
 estate, without accusation or trial, would be so gross and notorious an
 act of despotism, as must at once convey the alarm of tyranny
 throughout the whole nation; but confinement of the person, by secretly
 hurrying him to jail, where his sufferings are unknown or forgotten, is
 a less public, a less striking, and therefore A MORE DANGEROUS ENGINE
-of arbitrary government.” And as a remedy for this fatal evil he is
+of arbitrary government." And as a remedy for this fatal evil he is
 everywhere peculiarly emphatical in his encomiums on the habeas-corpus
-act, which in one place he calls “the BULWARK of the British
-Constitution.”[2]
+act, which in one place he calls "the BULWARK of the British
+Constitution."[2]
 
 Nothing need be said to illustrate the importance of the prohibition of
 titles of nobility. This may truly be denominated the corner-stone of
@@ -19158,8 +19158,8 @@ of the people.
 
 To the second that is, to the pretended establishment of the common and
 state law by the Constitution, I answer, that they are expressly made
-subject “to such alterations and provisions as the legislature shall
-from time to time make concerning the same.” They are therefore at any
+subject "to such alterations and provisions as the legislature shall
+from time to time make concerning the same." They are therefore at any
 moment liable to repeal by the ordinary legislative power, and of
 course have no constitutional sanction. The only use of the declaration
 was to recognize the ancient law and to remove doubts which might have
@@ -19182,9 +19182,9 @@ they have no application to constitutions professedly founded upon the
 power of the people, and executed by their immediate representatives
 and servants. Here, in strictness, the people surrender nothing; and as
 they retain every thing they have no need of particular reservations.
-“WE, THE PEOPLE of the United States, to secure the blessings of
+"WE, THE PEOPLE of the United States, to secure the blessings of
 liberty to ourselves and our posterity, do ORDAIN and ESTABLISH this
-Constitution for the United States of America.” Here is a better
+Constitution for the United States of America." Here is a better
 recognition of popular rights, than volumes of those aphorisms which
 make the principal figure in several of our State bills of rights, and
 which would sound much better in a treatise of ethics than in a
@@ -19226,8 +19226,8 @@ cannot forbear adding a remark or two: in the first place, I observe,
 that there is not a syllable concerning it in the constitution of this
 State; in the next, I contend, that whatever has been said about it in
 that of any other State, amounts to nothing. What signifies a
-declaration, that “the liberty of the press shall be inviolably
-preserved”? What is the liberty of the press? Who can give it any
+declaration, that "the liberty of the press shall be inviolably
+preserved"? What is the liberty of the press? Who can give it any
 definition which would not leave the utmost latitude for evasion? I
 hold it to be impracticable; and from this I infer, that its security,
 whatever fine declarations may be inserted in any constitution
@@ -19264,11 +19264,11 @@ distinctions, entirely foreign from the substance of the thing.
 
 Another objection which has been made, and which, from the frequency of
 its repetition, it is to be presumed is relied on, is of this nature:
-“It is improper,” say the objectors, “to confer such large powers, as
+"It is improper," say the objectors, "to confer such large powers, as
 are proposed, upon the national government, because the seat of that
 government must of necessity be too remote from many of the States to
 admit of a proper knowledge on the part of the constituent, of the
-conduct of the representative body.” This argument, if it proves any
+conduct of the representative body." This argument, if it proves any
 thing, proves that there ought to be no general government whatever.
 For the powers which, it seems to be agreed on all hands, ought to be
 vested in the Union, cannot be safely intrusted to a body which is not
@@ -19326,9 +19326,9 @@ suggestion is entirely void of foundation, the offspring of extreme
 ignorance or extreme dishonesty. In addition to the remarks I have made
 upon the subject in another place, I shall only observe that as it is a
 plain dictate of common-sense, so it is also an established doctrine of
-political law, that “STATES NEITHER LOSE ANY OF THEIR RIGHTS, NOR ARE
+political law, that "STATES NEITHER LOSE ANY OF THEIR RIGHTS, NOR ARE
 DISCHARGED FROM ANY OF THEIR OBLIGATIONS, BY A CHANGE IN THE FORM OF
-THEIR CIVIL GOVERNMENT.”[4]
+THEIR CIVIL GOVERNMENT."[4]
 
 The last objection of any consequence, which I at present recollect,
 turns upon the article of expense. If it were even true, that the
@@ -19441,9 +19441,9 @@ less expensive would be incompetent to the purposes of the Union.
 
 PUBLIUS.
 
- [1] _Vide_ Blackstone’s _Commentaries_, vol. 1., p. 136.
+ [1] _Vide_ Blackstone's _Commentaries_, vol. 1., p. 136.
 
- [2] _Vide_ Blackstone’s _Commentaries_, vol. iv., p. 438.
+ [2] _Vide_ Blackstone's _Commentaries_, vol. iv., p. 438.
 
  [3] To show that there is a power in the Constitution by which the
  liberty of the press may be affected, recourse has been had to the
@@ -19467,7 +19467,7 @@ PUBLIUS.
  ought to be free, that taxes ought not to be excessive, etc., as that
  the liberty of the press ought not to be restrained.
 
- [4] _Vide_ Rutherford’s Institutes, Vol. 2, Book II, Chapter X,
+ [4] _Vide_ Rutherford's Institutes, Vol. 2, Book II, Chapter X,
  Sections XIV and XV. _Vide_ also Grotius, Book II, Chapter IX,
  Sections VIII and IX.
 
@@ -19478,7 +19478,7 @@ THE FEDERALIST.  No. LXXXV.
 
 Concluding Remarks
 
-From MCLEAN’s Edition, New York.
+From MCLEAN's Edition, New York.
 
 HAMILTON
 
@@ -19487,10 +19487,10 @@ To the People of the State of New York:
 
 According to the formal division of the subject of these papers,
 announced in my first number, there would appear still to remain for
-discussion two points: “the analogy of the proposed government to your
-own State constitution,” and “the additional security which its
+discussion two points: "the analogy of the proposed government to your
+own State constitution," and "the additional security which its
 adoption will afford to republican government, to liberty, and to
-property.” But these heads have been so fully anticipated and exhausted
+property." But these heads have been so fully anticipated and exhausted
 in the progress of the work, that it would now scarcely be possible to
 do any thing more than repeat, in a more dilated form, what has been
 heretofore said, which the advanced stage of the question, and the time
@@ -19564,7 +19564,7 @@ public safety and prosperity. Every man is bound to answer these
 questions to himself, according to the best of his conscience and
 understanding, and to act agreeably to the genuine and sober dictates
 of his judgment. This is a duty from which nothing can give him a
-dispensation. ’T is one that he is called upon, nay, constrained by all
+dispensation. 'T is one that he is called upon, nay, constrained by all
 the obligations that form the bands of society, to discharge sincerely
 and honestly. No partial motive, no particular interest, no pride of
 opinion, no temporary passion or prejudice, will justify to himself, to
@@ -19584,9 +19584,9 @@ produced.
 
 Concessions on the part of the friends of the plan, that it has not a
 claim to absolute perfection, have afforded matter of no small triumph
-to its enemies. “Why,” say they, “should we adopt an imperfect thing?
+to its enemies. "Why," say they, "should we adopt an imperfect thing?
 Why not amend it and make it perfect before it is irrevocably
-established?” This may be plausible enough, but it is only plausible.
+established?" This may be plausible enough, but it is only plausible.
 In the first place I remark, that the extent of these concessions has
 been greatly exaggerated. They have been stated as amounting to an
 admission that the plan is radically defective, and that without
@@ -19679,13 +19679,13 @@ expectations of their constituents. But there is yet a further
 consideration, which proves beyond the possibility of a doubt, that the
 observation is futile. It is this that the national rulers, whenever
 nine States concur, will have no option upon the subject. By the fifth
-article of the plan, the Congress will be obliged “on the application
+article of the plan, the Congress will be obliged "on the application
 of the legislatures of two thirds of the States, which at present
 amount to nine, to call a convention for proposing amendments, which
 shall be valid, to all intents and purposes, as part of the
 Constitution, when ratified by the legislatures of three fourths of the
-States, or by conventions in three fourths thereof.” The words of this
-article are peremptory. The Congress “shall call a convention.” Nothing
+States, or by conventions in three fourths thereof." The words of this
+article are peremptory. The Congress "shall call a convention." Nothing
 in this particular is left to the discretion of that body. And of
 consequence, all the declamation about the disinclination to a change
 vanishes in air. Nor however difficult it may be supposed to unite two
@@ -19707,14 +19707,14 @@ object.
 The zeal for attempts to amend, prior to the establishment of the
 Constitution, must abate in every man who is ready to accede to the
 truth of the following observations of a writer equally solid and
-ingenious: “To balance a large state or society Usays hee, whether
+ingenious: "To balance a large state or society Usays hee, whether
 monarchical or republican, on general laws, is a work of so great
 difficulty, that no human genius, however comprehensive, is able, by
 the mere dint of reason and reflection, to effect it. The judgments of
 many must unite in the work; experience must guide their labor; time
 must bring it to perfection, and the feeling of inconveniences must
 correct the mistakes which they INEVITABLY fall into in their first
-trials and experiments.”[3] These judicious reflections contain a
+trials and experiments."[3] These judicious reflections contain a
 lesson of moderation to all the sincere lovers of the Union, and ought
 to put them upon their guard against hazarding anarchy, civil war, a
 perpetual alienation of the States from each other, and perhaps the
@@ -19737,13 +19737,13 @@ possible shape.
 
 PUBLIUS.
 
- [1] Entitled “An Address to the People of the State of New York.”
+ [1] Entitled "An Address to the People of the State of New York."
 
  [2] It may rather be said TEN, for though two thirds may set on foot
  the measure, three fourths must ratify.
 
- [3] Hume’s _Essays_, vol. i., page 128: “The Rise of Arts and
- Sciences.”
+ [3] Hume's _Essays_, vol. i., page 128: "The Rise of Arts and
+ Sciences."
 
 
 
