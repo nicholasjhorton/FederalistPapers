@@ -12,10 +12,10 @@ A dataframe with 19,417 elements
 \item{line_number}{Line number within paper}
 \item{paper}{Paper number (1 through 86}
 \item{roman_number}{Roman numeral equivalent of paper number}
-\item{title}{Title of the paper}
 \item{author}{Imputed author (John Jay, James Madison, or Alexander Hamilton, determined circa 1944, see Wikipedia)}
+\item{disputed}{Authorship disputed: see Mosteller and Wallace (JASA, 1963)}
+\item{title}{Title of the paper}
 }
-\details{There are two slightly different versions of No. 70: the first is included here.)
 }
 \source{
 \url{https://www.gutenberg.org/ebooks/18} and \url{https://en.wikipedia.org/wiki/The_Federalist_Papers}
@@ -27,5 +27,8 @@ FederalistPapers
 This package contains the text of the Federalist Papers
 
 A data set containing the text of the Federalist Papers
+}
+\details{
+{There are two slightly different versions of No. 70: the first is included here.}
 }
 \keyword{datasets}

@@ -1,7 +1,7 @@
 Package: FederalistPapers
 Title: Text of the Federalist Papers
-Date: 2023-10-21
-Version: 0.0.3
+Date: 2023-10-22
+Version: 0.1.0
 Authors@R: 
     person(given = "Nicholas",
            family = "Horton",
@@ -9,7 +9,7 @@ Authors@R:
            email = "nhorton@amherst.edu",
            comment = c(ORCID = "0000-0003-3332-4311"))
 Description: This packages provides a way to access text from the Federalist Papers.
-  It utilizes the lightly edited text files downloaded from Project Gutenberg.
+  It utilizes lightly edited text files downloaded from Project Gutenberg.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
